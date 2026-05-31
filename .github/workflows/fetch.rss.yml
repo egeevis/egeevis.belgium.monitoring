@@ -1,4 +1,4 @@
-name: RSS Güncelle
+name: RSS Guncelle
 
 on:
   schedule:
@@ -21,16 +21,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: feedparser kur
-        run: pip install feedparser requests
+      - name: Bagimliliklari kur
+        run: pip install --no-cache-dir feedparser
 
-      - name: RSS çek
+      - name: RSS cek
         run: python fetch_rss.py
 
-      - name: data.json kaydet
+      - name: data.json commit/push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --cached --quiet || git commit -m "RSS güncellendi"
+          git diff --cached --quiet || git commit -m "RSS guncellendi"
           git push
