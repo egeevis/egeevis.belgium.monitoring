@@ -316,7 +316,26 @@
 </div>
 
 <script>
-const PROXY = "https://api.rss2json.com/v1/api.json?rss_url=";
+// RSS'i XML olarak çekip parse eden yardımcı — allorigins proxy üzerinden
+async function fetchRSS(feedUrl) {
+  const proxy = "https://api.allorigins.win/get?url=" + encodeURIComponent(feedUrl);
+  const resp = await fetch(proxy);
+  if (!resp.ok) throw new Error("proxy error");
+  const json = await resp.json();
+  const xml = json.contents;
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xml, "text/xml");
+  const items = [];
+  doc.querySelectorAll("item").forEach(el => {
+    const title   = el.querySelector("title")?.textContent || "";
+    const link    = el.querySelector("link")?.textContent
+                 || el.querySelector("link")?.getAttribute("href") || "#";
+    const pubDate = el.querySelector("pubDate")?.textContent || "";
+    const source  = el.querySelector("source")?.textContent || "";
+    items.push({ title, link, pubDate, author: source });
+  });
+  return items;
+}
 
 const CATS = {
   nuclear: {
@@ -390,11 +409,8 @@ async function loadCat(cat) {
   const allResults = {};
   await Promise.all(cfg.feeds.map(async (feed) => {
     try {
-      const resp = await fetch(PROXY + encodeURIComponent(feed.url) + "&count=8");
-      const data = await resp.json();
-      if (data.status === "ok" && data.items && data.items.length > 0) {
-        allResults[feed.name] = data.items;
-      }
+      const items = await fetchRSS(feed.url);
+      if (items.length > 0) allResults[feed.name] = items.slice(0, 8);
     } catch (e) { /* kaynağa ulaşılamadı */ }
   }));
 
