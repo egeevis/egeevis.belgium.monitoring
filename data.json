@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T16:54:57.541241Z",
+  "updated": "2026-05-31T17:35:29.576572Z",
   "meta": {
     "refresh": "30m",
     "notes": [
@@ -84,14 +84,6 @@
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMG1heUJZYUFSb3pqZVpobjNUOS0xTWhRX3E4OU13Y0RrNWdRbWtUM1ZLdHlmb3pNOUkyUU1jaXBrcVBmVjB0UzU4VlhLUUczRmx1NURKNWI3SnFQZFFPaVlJb2JTcUxjRTRvUmJRRFZET1Nvd183aUV6d2VUSkM0RHBFQ19MLXB3bFRuVGY3eGg5YlNmZnRFXzJ2eGlmMjVZZHItMWQ4MWg0WmdrdXl4SnFFZmI4SjRGMWI3UVg4T0ViaGtSUUdCYkRaZVlmNlNpOE1ZU2FkYVFvS21RNG5OVVNrSnlPQXRvZnFXM3I2NU5zZ3g3a25jZ3l3?oc=5",
           "date": "2026-05-29T12:45:00Z",
           "source": "Vozpopuli",
-          "feed": "Google News EN - Belgian energy policy (7d)"
-        },
-        {
-          "title": "Drone strikes apartment block in Romania near Ukrainian border, 2 injured - Anadolu Ajansı",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3lYRkU0XzJxTFJXbjFFUjVYRnQ5d3l0aUkzMklHbkVOaFpSd3lucXNqWURSTk5DT2NDYk1tSGRrZTh6cW9ETTg1c2FlSXVRQ2QxSmNUNlhON2lFZmZaS21LWmVlaDZVLUxZTDRGYXFLdU5rb3pfcVBxZnlaVl9VQUlFNGVwQU1VUTdvd09EOEVWeFdPakxDNWw2WHg1NFJ3TVFjUWoyWTZiR2M5YW5Xay1jSU9GQU1aMEHSAcIBQVVfeXFMT3BoNXpSOEJ3d3dNMDNJWElzTGtmd2FlM09ZZ2x0VDJfa3lsaGdGZEViSVM2S2V0THM2X212UHB6cVo1aFFkcFNwdGhRbEk4cVlFUmI3bnBkS09sRV8yWl9LSW14S1hIWEFHTzkxV1FBTWI4czVXOHVleVBGYlQwR2Rub09EeXdiUGtDaTkzYUlDSEVZc0FzNWdUNDJTZTUyU29PakZrMUY4c0poVDJYZ1dBZ1RNcW01VUpSOTMtNEhYTnc?oc=5",
-          "date": "2026-05-29T08:26:03Z",
-          "source": "Anadolu Ajansı",
           "feed": "Google News EN - Belgian energy policy (7d)"
         },
         {
@@ -259,6 +251,14 @@
           "feed": "Google News FR - Nucleaire Belgique"
         },
         {
+          "title": "\"Nous ne discutons avec personne d'une possible prolongation nucléaire\" - La Libre.be",
+          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQTBuNHh1bS05UDhiWHA2ZERHUlRUWEF5dTVQTjlzVnBNa0cxbE1tX3hTaDhKb2dNZ2hueEtNcmlJQkh1aVdIeHI1WXpMSF9Lcl9iSzQxMlJreUpwU2l3amdJUXozRWgwa2tIY2JLdXFla0hTSjdQcG90aXV3SDNpWXlWWnZyRWxDZE1QWUJ0Q0E1aTR5UUVrYk5yMUQzRG9NWDkzU1E4MzdBdDJvY0JhY29GQ0UyOHh2alFraE1QQXdHSHMwODRIdXpOQ1ExSHFHU0gyU1B0cEs0YlQ4N1ZtNVRja2Rwdw?oc=5",
+          "date": "2026-03-13T07:00:00Z",
+          "source": "La Libre.be",
+          "feed": "Google News FR - Nucleaire Belgique"
+        },
+        {
           "title": "Prolonger les réacteurs fermés ? Un faux débat",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VVzhUNllZeVJaV3p1TmhzcWZZWHFCVkdFV2dqQm1WVW1NQjd3SFJMck9fZ09LdnJoR3BnRHEtVl83Qk1yZDhXYTlJaWZ2NTEwVm92aHdoeXRCNVZaM3NJa2JMV1ZYWllhaF9YczFxUVBORDF0OWE1RHdB?oc=5",
@@ -288,14 +288,6 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0FyYmJKTmhXUjNtV1JvQkM5WXNMSG5Kc3RTRkFUY3Jta2VxM3duaXVjSlNySG9UdVhJQzZpTWhpdzA3VEJLQi1xaF9wZ0VtSVpDVER0WHI0TkNVdzVYSkp6eFBMeDFtTEdPQnAzVnRjZERSWFBKN1J3aGlobVlnalg2QWU3ZWFYRW9xRVpaQ05ZcW1vRzlmR09fLUZXcTgtNzdfNy0wZ2hfV3FPTm05cTRCT21fbzllYUttTGtEY0hyTWZEbm0wMExvZWtsdkprdHdJ?oc=5",
           "date": "2026-02-27T08:00:00Z",
           "source": "L'Echo",
-          "feed": "Google News FR - Nucleaire Belgique"
-        },
-        {
-          "title": "Nouveau poker des milliards autour de Doel 4 et Tihange 3 - De Standaard",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0UzNmEyenA5ZTVjVDdZczZlSl8zMU4xYkV6X0wxOEVmN1Bnb3M5OV83bXE1UHpqLVoyU3k2ajdBYTB6Vnh0SFVJWlJINTY3Mm81bjJsYkNubDVXWTdCNV9ZaXFkcHgtTkhQYS1nSlRGWnRLanUxdGJEc1VKTHFTYjZ4ZzFiT0x5TjVzUEowZnY0bzk4SlR5akVEVHhheUVUTHZGeEdn?oc=5",
-          "date": "2026-02-27T08:00:00Z",
-          "source": "De Standaard",
           "feed": "Google News FR - Nucleaire Belgique"
         },
         {
@@ -477,14 +469,6 @@
           "feed": "Google News NL - Kernenergie Belgie"
         },
         {
-          "title": "Extra problemen vastgesteld bij kernreactor Tihange 2: betonijzer blijkt niet op de juiste plaats te zitten",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVJUc2tuV0NheTVMdEdOeHlmYmNPQnNsQ011WGJQSVFHREJ1VUVRb1RDZEhsTzM5MGJwSEhCZ203RVhLX0hFZXlHU0dSMVBhWXNBM3lKMHdmbHBHZzhkdC1yVXZnTG1feUhQSHctLWp6cU1UUlhFX09MODcwRG02c2JxM29JYkZNUi04SUZJbkdTbE1sV2lQNm81WW10VXR0bzVsZlp3?oc=5",
-          "date": "2018-10-02T07:00:00Z",
-          "source": "VRT",
-          "feed": "Google News NL - Kernenergie Belgie"
-        },
-        {
           "title": "\"We spelen Russische roulette met Doel 3 en Tihange 2\" - De Morgen",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzgwQmpuVGhJWGdiUlFENHEtVU1sVWh1VTZ4MWlXeVh0UUxrYzJjUEszaWVKeWRCMFYtV2wwa05seVdzTVc4Y0NyU09aTGcyb3R6TVhyZW96cHZJcWQ4UFVlaThHQ0gwVnBnMzdmM29qZGx6aEVTQ2I4d3ZoTVFaTTFWNE5haDdEUk5rajVIaGtDbVE2Q1VyaQ?oc=5",
@@ -506,6 +490,14 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbE5HdmRBOGVQQ1JvVWVpZkM0ak1LbUF0bWp3NWh0enp4ZGNzemVyc0RDaHdyYnphVWRiQWR4Q0VETlJUVnlORjUwQ3pobUczT09LTXZOUzEtQUpXcGhDUV9xemJRZHVHOU5Idmd6U2NLOGROZEtJbXREcjFQTjdpcWtzT2ppZ1pBekwtT0VRZFdQWEVWeWJSSXd5b1Q?oc=5",
           "date": "2018-07-05T07:00:00Z",
           "source": "De Morgen",
+          "feed": "Google News NL - Kernenergie Belgie"
+        },
+        {
+          "title": "Is de Belgische kerncentrale bij Tihange echt onveilig?",
+          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVm5vcjhuRmR2LWhzVThIclN2MnF6Zk81SGlJZVkxdWczZTZLMVQxdWk5M0N1OGk0MTdlOEdPWWU3VW5kT1B4Q2ZicHpRcERGekJRemtaR250S0FXaVo3VVBucjZkT1NXclBGRzZRNmUtU29XclE0UC1PVWFXQ29OWnk2c01sMzEwSkJlamRIOXBWZ0hGaXhz?oc=5",
+          "date": "2016-09-07T07:00:00Z",
+          "source": "Trouw",
           "feed": "Google News NL - Kernenergie Belgie"
         },
         {
@@ -677,168 +669,6 @@
           "date": "2022-03-19T07:00:00Z",
           "source": "heise online",
           "feed": "Google News DE - Kernenergie Belgien"
-        }
-      ],
-      "Google News EN - FANC/ANC": [
-        {
-          "title": "IAEA Mission Recognizes Belgium’s Continued Commitment to Strengthen Nuclear and Radiation Safety - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZnMteVJVSE1IZDdSY2hZMDc1MWRtVng4UV9YLVVvaF9iSWNoS0lEeC1YdDIwWWw5YVJLNnUwekk0T2g0RDJnSThYajRURzF4SkJQTEZnc2w3VVhqRDBxa0FjcHcxT0pqYmJ4R2Nvc08zMHYwdUw1VXRXLVZZWHRiUEsxRFVpMUVfSXB2NlVfcEU5azB6czByNlhVZDNfUmVPVTRRa2Q4bmwzakw2c2hIRzl0WjNsUzNBN0c2ajVtT2hkVkdBV0dxU2w4M2tUSGJ0SjVpaVM0MWM?oc=5",
-          "date": "2026-03-27T07:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Safety assessment for Belgium’s BR2 reactor - Nuclear Engineering International",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41Vy15aE0tUUJrZ0Q0NFYza1ROVVN3TzAzY01UVE9qMV92ZGx0VlpEaUtqc212SEszSy05OHUxWmw4WGpZNEphSFEzMU1BRE5pT1IxRTR1dDctbm1jOHg4QlZuVUJLbG5YX0p2eVFpVmF4ZWU0YlE?oc=5",
-          "date": "2025-12-17T08:00:00Z",
-          "source": "Nuclear Engineering International",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Nuclear energy, nuclear medicine, advanced research and new projects in focus during NEA mission to Belgium - Nuclear Energy Agency (NEA)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamNmUWlxblJiQUVNeWdYTW9wTlZSRTJFX3I0SEFqTm1KQUdpU0FfWkhNdDNreVZnXzQzOWZhZWcxQmhDSGtnR1FhbEdYZzdUejAxTlRmZjBLV3djSHBGQmtXRm1UaUJ5Y2d2SU5RdjBHQUJzZ2RmaXBhQzFfZDZGcGNGU1BUMC1wTzRYQ0l0djJzWHlQSHVaLTlTQ0xpQWp5UEE1ajBsSFpTR1NkcGpNeDFYcWRpOGNkNVB2c2k0d0kya2R1NHExY185YTlMWHRXY2xmQ1VaQkxrWloxeEE?oc=5",
-          "date": "2025-12-16T08:00:00Z",
-          "source": "Nuclear Energy Agency (NEA)",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Federal government wants to extend life of third nuclear reactor",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3ZIVlVBekMycExITnFJOEZvUUVPU3h6YjZVNjhtWGQ3eFVfZG8wNGhBQjljeGRqNFFnS3o3cTBCOGs3YkNXTTh6eVdGSVgwaktFdFZyZnA2R1dwNDRxNGpRcnM2MWlEWEZDWVREeFhfZng3RXZPRWxmdlNtU2c0Tks0TnNKaGVUaFF4eWYyd093aHR1YjdOcGF5SQ?oc=5",
-          "date": "2025-08-19T07:00:00Z",
-          "source": "belganewsagency.eu",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Tihange 3 restart approved - Nuclear Engineering International",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41TExuVTlXVFIxZkowZEtEZjR3YWt4MXRVWVNfdm5ldUNPbmZ2TjZpcjBWdWhpYndVUzkyLVlzWFFrS2lkalo4U2M0NTZMUUNmbElRNm8zNktJc0dXdTNteVlZdlNjREF6UnpRdQ?oc=5",
-          "date": "2025-07-10T07:00:00Z",
-          "source": "Nuclear Engineering International",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium’s Nuclear Regulator Clears Tihange-3 For Restart, But Calls For Clarity On Operation Beyond 2035",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnd2S0c0LWplQVZNUmxUNUtKYTYwZWUtOERtYV9wd04yeFB4ZnJtekQxM2NqT3RjMEF6QXczZFN3ejdvSDNjRUM3c0Zxa3A1TUVoam52UHBzaHhrSnpwUk9LUkdPYTRXM3ozVS1EZXhUOGM1WmhTMmgtM3h2ZElMUWxMblpkSjkzRVhBeWp1SHg4aHRkeTh0aUtWYTFqSGVHN25QWXE0M2xRS1hEckZNaC13c292M1poQURVaFFnc0ZuMnBjRkNRck1iMUszZ0k2dXN5T2NNaw?oc=5",
-          "date": "2025-07-08T07:00:00Z",
-          "source": "NucNet",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium’s nuclear regulator approves restart of 1 GW Tihange 3 reactor",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFk3Q0Izblc5V0ZKWlIweC1wU0R4V0xPV1FfWTZhbW1ZSG8yc3hlUS1UT0hqVzJzUWtScTBQZkRfRWFnYy0zb29pT3ZmdERNLTBDSjNoMWxvWXpzQm5JeHNybFhjXy0tamdKd0RvdmJZdjRGUXkxZFNGb0ktN1I1VnhjUWNSNHowcnh1X2Q2ckMxLXgwaGl5dWNIdlgzS2I3T0h0YVFTOGY2U2xHZk9mOEtjTXcxVFdmOUFjaFlzbHpOV1BJRHc?oc=5",
-          "date": "2025-07-08T07:00:00Z",
-          "source": "Enerdata",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium begins consultation on SMR design - World Nuclear News",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0ZiLXpRS0tlQU5vNEw4NTRNX0g2YThZLXM5MFlPblBhTnFiX1lURUFfaHQtbHhXeEVWUU5zWlgzaUZqbmVyRFhOTWJtNEw0dGhBUkhfMUZSRGJOTGdKdVB6RG5VdVhHY2N1enNxQWZRNzFiMGVQN0c4VHVHd2pkNWxhQXlCNmw0cTY3YzRn?oc=5",
-          "date": "2025-05-15T07:00:00Z",
-          "source": "World Nuclear News",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "The U.S. and Belgium advance insider threat mitigation at IAEA conference - Department of Energy (.gov)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZjanBrOUtpZVhWZlZ4TFVVZ1BjZC1lWmtwSkJkZzdPVTA5NzJ1cG1KQjlsb0FzQWhSSTdCWEZfQ19wdEE3c0lWR2UtT1lCQ1JqWXEtQzZMQ0Rmb2lWUnAxMHZVOFF4bDV4OHd5bFZzNXNRbjlvV0l4ZlQ2U25kdlFzbGwzanhyUHJnSXlPSThRcDdGUzJYdE9IRmRzTGhmVVNR?oc=5",
-          "date": "2024-05-30T07:00:00Z",
-          "source": "Department of Energy (.gov)",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Let’s Talk About Nuclear Security - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OcVlpOVFxNGxHMkRBekFRVEU5eFdpYTZFWXNkWV8zcTh2UDBqSmRISVUyNV9EdU5KMmdCR3FKNlhHT0gwN241aHJncWlVS0hVNy1CUDREN2c3dU1pOEVVMDMxZkJWaXhGLUhNMWpR?oc=5",
-          "date": "2024-05-16T06:25:32Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Radiological protection during decommissioning – the WGDECOM working group holds its 14th meeting - Nuclear Energy Agency (NEA)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVR2TDBDazJfYW5ZRWU3cGVkN1dGemZSU0FQa2czWkx4LTJFNkNpX3E2eERoQ0ZCVDUtQ0NfWlNuLVJ0Ym9YckNtWE1VSXBwaXZCcXJoRGJ2YUNFM0xCNGZKcXhpVWdQcDdfalZmZTJJSXMwMW1iMGxHUnBaRVZKWGZDVkhOMkc1UjM1Z2RGYXlwbFFBYnJybGFHUUc2b1BpdEFlMjdVbHp3Vm16ZThDSnRnMk8wWFpIQVhSY1NhZktULWViclNNT0dpVEtXT1E?oc=5",
-          "date": "2023-11-21T08:00:00Z",
-          "source": "Nuclear Energy Agency (NEA)",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium committed to nuclear safety, says IAEA - World Nuclear News",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHZHeXQzaXEzQk5aOFlwdnJVYXRzSExyTFlKV2tHUkJXY1RqYUMxekpVNEdGR3llRjhaZ1JKUHNZNXVxTmNEM0ZaTmdGYk9nWEJpZG9ob0dYc0txU2JYeU11NjBRRGRoeEVzRnRYdzdzaV9taTIzSmdmdDVQeU9ZMFJTUEtNTWJzeFZRY0RmSnY1bHh4?oc=5",
-          "date": "2023-07-04T07:00:00Z",
-          "source": "World Nuclear News",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Mission Commends Belgium's Commitment to Nuclear and Radiation Safety, Identifies Areas for Further Enhancement - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXhRWEVtOXZabXIyTHFWZXpSYXNKOE1vcTNKLW5NLUQ2VXZzaDNFQy1pU2d6MWtOMG8xWHNKVWprdDFSMDRvQUxaOTVHVXNxZjEwaG9hZTBYY0lYdTFGdVU0R1dDdGUyRms5aS1LOGJvdEZGWDZJWnZtakF3b0pyRW9NTVdEbTlvYi1zcGxjSXZmMTVZRHJFX2taSnlMM09wMFFZSkJpOWdWTUhvMGYtLS16NDQ1ZTZMbTgwU0NidmhMVUJkZW5mdkIxbE4tc1pyUDZ3MzYwZ0Z2SWZ1em1pUmFUSkc1TlNnNm1ZSWcwcjg?oc=5",
-          "date": "2023-06-30T07:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium / BR2 Research Reactor Plans To Switch To LEU Fuel In 2026",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDlPSkhwXzQ5d21jT2w3bTZ1VDZkS2pMRml2bzMxUHJhZlBQdzVZdXpxY25sWmpXbDdFTGdtOHJDVDBPem80R204bXZOQlBuX0RKV056TjBFY1pwNVdDa3d1Ym5uOVZyNXBZT2JLT0l3UUZkbHVzM1lxTjdEYVlhZjFjb19Gc2xKR1lfRUdGZVA?oc=5",
-          "date": "2023-03-27T07:27:50Z",
-          "source": "NucNet",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Mission Observes Strengthened Safety Measures at Belgium’s Largest Research Reactor, Sees Opportunities for Further Improvement - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORllyaUtOSURLUzFpcGZVcGxsZEF6SUZQRWlTcm9GRmJ2bzhfZXJ2M2FaRGEzY2VkSE1BMDVuc254aG8yNXBoM3o5OGgzblBfbFlkZ2twTkdrdDI3SlVaTFVzYWtFQ2ZETlVndHRIc2diTFd2RWNOdXNuQkFTZngzbG9OaF9xVkVGQV9lZ3NoWGRKby1pS2liVHpjdnBSR3JkVmgtNnR1YkFLR1FsN2haMHBjaTdCWUxxdGlMNHBuS3VmUGNPdzJ6ak5wRWNUODBlaXR3YVRMYUs5WHY2MEU5dU1qb1lNbTdBclg5NXdUaXRhYnlZV2h4TzBiRy05WkRtVHBLcFhR?oc=5",
-          "date": "2023-03-08T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "EXPERT ROUNDTABLE: The NEA Regulators' Forum (RF) to celebrate 20 years of international service - Nuclear Energy Agency (NEA)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHAzRi1yTzhNV1oxOEtPMFh4N2ZGZXo3SUhOVWhZVmxrWmJiQWZqbDJYNHktZjAyeEttcWtFQm1LbzZ6SHppM21jSl9ubDdtakhfS0pvR0NHbnZwaXVVUlh6SHpLQnd1RjhYUmloRnJNalBKaWdaVi1nYjhPSGdDLVVseVE3U1llWXhPd3kySDBKRFRPMHJXcjByQ0dtSW5JQzBYbW45SzltZ2gwUzBUdU05SXNrOGRoZzQwbjJyVEF3Wmp5cXc?oc=5",
-          "date": "2023-03-03T14:14:06Z",
-          "source": "Nuclear Energy Agency (NEA)",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Concludes Safety Review at BR2 Research Reactor in Belgium - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXNYWVNNb1RCZmFLWndyUTBwZmlKc1h2VHRKWTJLNzZkZHdzSEk5YzBwZGktTE9WN2Rxb2NHS21nc0lfanhVZEc0dDdKelY5V0FhUlhYM2lvNFYteXRMUnl1VUZaaW9fdW1VYU9aOU02aHBBaGdscUlLVkd6dTQ1dmZTWjVVX0NfSi1sbmNsc1l4V1lIU0JsNEhJT2pYRVlfVjRGWktSX3hvcUVl?oc=5",
-          "date": "2017-11-14T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Concludes Safety Review at Doel Nuclear Power Plant in Belgium - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTVadUE0LU05ekZMRTFsakpiRmx1aEhUVFpyYnhmVUNEMnVmUjl5Z0lhenZUdUVFNkpBMlJJZEx4ZEtySFIxZk5aS0ExWDVad21ETVNicnpXVHYxWnpWRzlOeWJzMmxQdHJobnczQ0JjVmtNLUpRemY2SU43WnZlUXlETzFfSVliMk1ESmFBeHMwM3oxSjl3cHE1X0RFa2xrNFZqVW1oV1E2eDN2UXk5eUFB?oc=5",
-          "date": "2017-02-23T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Renewed doubts on Belgian nuclear safety",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkppcWtzU2wzUHFMaGNoZkhBT0lkLUJQNF9Uc1k1T1RxOTFvSnNfZmliVHI2OXV4Z2hrQWFwQmpiUkpkdEV2b0FmejM5dUlja0pHSXo2NC1kT2tNWFJybjZWSnhtSFl3SVI1ckRNeFQ5N0ExN3R3bmV3bkdZRHpYMU9Qd0JFV3lmTEFkWjA2WG_SAZABQVVfeXFMUHo4bzRRUGQ4S2FCejNHSTlnV1dFME9KXzB2RXpJLURrbnRLNmZ5cFBFSmNuMGRYWnI3ZVc4QkJqQXYxb2JXVEN3eUFmWVp0a0F0SlZaUWhjZXZiN0VKVWNDME13dTBXTzdYVHFoNXVubGFEM0UxS3VDTmVoRXV0QWlQcVBLSTBWMEF6aUZRMTFq?oc=5",
-          "date": "2016-04-21T07:00:00Z",
-          "source": "DW.com",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Reviews Nuclear Security in Belgium - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43VXQ2SnRUZ21MVVo0aXlZOV84MERhc3l5LXBOS0RYRXhkXy1wV1lrQnBNNUVYeFlicGlCbTRTMUNYS2JaOUltTEV3VXU4RjVkQU44TkFfWGZlanZjU1ltNm5ZempLc1YxdjlQQ05FRFZVTkpEdl9aVXBGV3lhdw?oc=5",
-          "date": "2014-12-11T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
         }
       ],
       "Google News EN - Engie Electrabel": [
@@ -1047,14 +877,6 @@
           "feed": "Google News EN - Belgian energy policy (7d)"
         },
         {
-          "title": "Drone strikes apartment block in Romania near Ukrainian border, 2 injured - Anadolu Ajansı",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3lYRkU0XzJxTFJXbjFFUjVYRnQ5d3l0aUkzMklHbkVOaFpSd3lucXNqWURSTk5DT2NDYk1tSGRrZTh6cW9ETTg1c2FlSXVRQ2QxSmNUNlhON2lFZmZaS21LWmVlaDZVLUxZTDRGYXFLdU5rb3pfcVBxZnlaVl9VQUlFNGVwQU1VUTdvd09EOEVWeFdPakxDNWw2WHg1NFJ3TVFjUWoyWTZiR2M5YW5Xay1jSU9GQU1aMEHSAcIBQVVfeXFMT3BoNXpSOEJ3d3dNMDNJWElzTGtmd2FlM09ZZ2x0VDJfa3lsaGdGZEViSVM2S2V0THM2X212UHB6cVo1aFFkcFNwdGhRbEk4cVlFUmI3bnBkS09sRV8yWl9LSW14S1hIWEFHTzkxV1FBTWI4czVXOHVleVBGYlQwR2Rub09EeXdiUGtDaTkzYUlDSEVZc0FzNWdUNDJTZTUyU29PakZrMUY4c0poVDJYZ1dBZ1RNcW01VUpSOTMtNEhYTnc?oc=5",
-          "date": "2026-05-29T08:26:03Z",
-          "source": "Anadolu Ajansı",
-          "feed": "Google News EN - Belgian energy policy (7d)"
-        },
-        {
           "title": "Fortes chaleurs : pourquoi le prix de l’électricité fait le yo-yo - Le Soir",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlM0cmNhUWc2QU9OaE1Xb2dWRF9XN3ZEeWhSX1dUbkJ6U0FxX1JtdE1DY0ZvRG5WU0djMmpQLTZVVzY2dzlEZDQ2eWw0MkhLbTQxV0xNQ3ZPazZqWHkyNTZ1QjZ2MVAyTzJmdkZhNmNSakNqUU5ja2lpald3ZTNMUFRzdDgzYWNsNEZIanloZXNJNnpVQkJsREhDZE1mcTNvV25kTXJqenhhb3U5V3pZ?oc=5",
@@ -1271,18 +1093,18 @@
           "feed": "Google News FR - Nucleaire Belgique"
         },
         {
-          "title": "IAEA Mission Recognizes Belgium’s Continued Commitment to Strengthen Nuclear and Radiation Safety - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZnMteVJVSE1IZDdSY2hZMDc1MWRtVng4UV9YLVVvaF9iSWNoS0lEeC1YdDIwWWw5YVJLNnUwekk0T2g0RDJnSThYajRURzF4SkJQTEZnc2w3VVhqRDBxa0FjcHcxT0pqYmJ4R2Nvc08zMHYwdUw1VXRXLVZZWHRiUEsxRFVpMUVfSXB2NlVfcEU5azB6czByNlhVZDNfUmVPVTRRa2Q4bmwzakw2c2hIRzl0WjNsUzNBN0c2ajVtT2hkVkdBV0dxU2w4M2tUSGJ0SjVpaVM0MWM?oc=5",
-          "date": "2026-03-27T07:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
           "title": "\"Les SMR présentent un beaucoup plus petit risque d'incident nucléaire que des vieilles bécanes\" - La Libre.be",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSmlIa3hPYlhQYjF2VWI0QUVXZ1hYWjNCVGFxOEtYaVhxTDJySzBYMVY4bTdRalFwTFl2ZWlmblRsZXhfd3dBa3Y1eTlKZ003NnI3MVdLMzhyeEhlT3ZyQ2VlWG5RVHpRZjJNUHBJX1Q4ZkNRc0VCR3BRcDVfdlNQZG5UanJ2WERTenhaNzJrUV9OY2cwcGxiSkFzVS1WdElwQkVIdWt3LTljOUVBTWkyemJQelBQbFl3VEdiVFpscE55d0pIbWtPa3QyVkdGYjF5MEd2bVNTMkYxSHhEUjZGQU40bkRKN0FXZEotMFVCNExwNnFRckZpbVhVWE4xMDNjSjFQVHBkZw?oc=5",
           "date": "2026-03-17T07:00:00Z",
+          "source": "La Libre.be",
+          "feed": "Google News FR - Nucleaire Belgique"
+        },
+        {
+          "title": "\"Nous ne discutons avec personne d'une possible prolongation nucléaire\" - La Libre.be",
+          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQTBuNHh1bS05UDhiWHA2ZERHUlRUWEF5dTVQTjlzVnBNa0cxbE1tX3hTaDhKb2dNZ2hueEtNcmlJQkh1aVdIeHI1WXpMSF9Lcl9iSzQxMlJreUpwU2l3amdJUXozRWgwa2tIY2JLdXFla0hTSjdQcG90aXV3SDNpWXlWWnZyRWxDZE1QWUJ0Q0E1aTR5UUVrYk5yMUQzRG9NWDkzU1E4MzdBdDJvY0JhY29GQ0UyOHh2alFraE1QQXdHSHMwODRIdXpOQ1ExSHFHU0gyU1B0cEs0YlQ4N1ZtNVRja2Rwdw?oc=5",
+          "date": "2026-03-13T07:00:00Z",
           "source": "La Libre.be",
           "feed": "Google News FR - Nucleaire Belgique"
         },
@@ -1319,14 +1141,6 @@
           "feed": "Google News FR - Nucleaire Belgique"
         },
         {
-          "title": "Nouveau poker des milliards autour de Doel 4 et Tihange 3 - De Standaard",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0UzNmEyenA5ZTVjVDdZczZlSl8zMU4xYkV6X0wxOEVmN1Bnb3M5OV83bXE1UHpqLVoyU3k2ajdBYTB6Vnh0SFVJWlJINTY3Mm81bjJsYkNubDVXWTdCNV9ZaXFkcHgtTkhQYS1nSlRGWnRLanUxdGJEc1VKTHFTYjZ4ZzFiT0x5TjVzUEowZnY0bzk4SlR5akVEVHhheUVUTHZGeEdn?oc=5",
-          "date": "2026-02-27T08:00:00Z",
-          "source": "De Standaard",
-          "feed": "Google News FR - Nucleaire Belgique"
-        },
-        {
           "title": "Les pronucléaires belges obtiennent un sursis pour la centrale de Tihange",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjQtZlFuS0pqcE9VTlRKOExwa2dUTHc2TThxNHpFSF9EcHJvZjhWWkVCQUZfMk82cnNFcXFVWE4zWnlld3pMN2hCNEgxQTQwTEhXXzlSU0xuZmg0TXllLTMyY0gwQVRGTVUxTjQ0c2hreXpvLVNseVgtZGdxUUJvWG54WUtaOTR1R3I3SjROd0w1MU9WcW5ZQ0hsbjJPM3o1NnU0S1NWUUF6TzZMcC1VX2R4RTRrVnhHTHVkQjRsLTc4dXdwNDk1dFJyVHpYdw?oc=5",
@@ -1349,22 +1163,6 @@
           "date": "2026-01-12T08:00:00Z",
           "source": "Belgieninfo",
           "feed": "Google News DE - Kernenergie Belgien"
-        },
-        {
-          "title": "Safety assessment for Belgium’s BR2 reactor - Nuclear Engineering International",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41Vy15aE0tUUJrZ0Q0NFYza1ROVVN3TzAzY01UVE9qMV92ZGx0VlpEaUtqc212SEszSy05OHUxWmw4WGpZNEphSFEzMU1BRE5pT1IxRTR1dDctbm1jOHg4QlZuVUJLbG5YX0p2eVFpVmF4ZWU0YlE?oc=5",
-          "date": "2025-12-17T08:00:00Z",
-          "source": "Nuclear Engineering International",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Nuclear energy, nuclear medicine, advanced research and new projects in focus during NEA mission to Belgium - Nuclear Energy Agency (NEA)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamNmUWlxblJiQUVNeWdYTW9wTlZSRTJFX3I0SEFqTm1KQUdpU0FfWkhNdDNreVZnXzQzOWZhZWcxQmhDSGtnR1FhbEdYZzdUejAxTlRmZjBLV3djSHBGQmtXRm1UaUJ5Y2d2SU5RdjBHQUJzZ2RmaXBhQzFfZDZGcGNGU1BUMC1wTzRYQ0l0djJzWHlQSHVaLTlTQ0xpQWp5UEE1ajBsSFpTR1NkcGpNeDFYcWRpOGNkNVB2c2k0d0kya2R1NHExY185YTlMWHRXY2xmQ1VaQkxrWloxeEE?oc=5",
-          "date": "2025-12-16T08:00:00Z",
-          "source": "Nuclear Energy Agency (NEA)",
-          "feed": "Google News EN - FANC/ANC"
         },
         {
           "title": "Belgium’s Doel 2 closed - Nuclear Engineering International",
@@ -1503,36 +1301,12 @@
           "feed": "Google News NL - Kernenergie Belgie"
         },
         {
-          "title": "Federal government wants to extend life of third nuclear reactor",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3ZIVlVBekMycExITnFJOEZvUUVPU3h6YjZVNjhtWGQ3eFVfZG8wNGhBQjljeGRqNFFnS3o3cTBCOGs3YkNXTTh6eVdGSVgwaktFdFZyZnA2R1dwNDRxNGpRcnM2MWlEWEZDWVREeFhfZng3RXZPRWxmdlNtU2c0Tks0TnNKaGVUaFF4eWYyd093aHR1YjdOcGF5SQ?oc=5",
-          "date": "2025-08-19T07:00:00Z",
-          "source": "belganewsagency.eu",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Tihange 3 restart approved - Nuclear Engineering International",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41TExuVTlXVFIxZkowZEtEZjR3YWt4MXRVWVNfdm5ldUNPbmZ2TjZpcjBWdWhpYndVUzkyLVlzWFFrS2lkalo4U2M0NTZMUUNmbElRNm8zNktJc0dXdTNteVlZdlNjREF6UnpRdQ?oc=5",
-          "date": "2025-07-10T07:00:00Z",
-          "source": "Nuclear Engineering International",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
           "title": "Belgium’s Nuclear Regulator Clears Tihange-3 For Restart, But Calls For Clarity On Operation Beyond 2035",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnd2S0c0LWplQVZNUmxUNUtKYTYwZWUtOERtYV9wd04yeFB4ZnJtekQxM2NqT3RjMEF6QXczZFN3ejdvSDNjRUM3c0Zxa3A1TUVoam52UHBzaHhrSnpwUk9LUkdPYTRXM3ozVS1EZXhUOGM1WmhTMmgtM3h2ZElMUWxMblpkSjkzRVhBeWp1SHg4aHRkeTh0aUtWYTFqSGVHN25QWXE0M2xRS1hEckZNaC13c292M1poQURVaFFnc0ZuMnBjRkNRck1iMUszZ0k2dXN5T2NNaw?oc=5",
           "date": "2025-07-08T07:00:00Z",
           "source": "NucNet",
           "feed": "Belga/Google News - Nukleer"
-        },
-        {
-          "title": "Belgium’s nuclear regulator approves restart of 1 GW Tihange 3 reactor",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFk3Q0Izblc5V0ZKWlIweC1wU0R4V0xPV1FfWTZhbW1ZSG8yc3hlUS1UT0hqVzJzUWtScTBQZkRfRWFnYy0zb29pT3ZmdERNLTBDSjNoMWxvWXpzQm5JeHNybFhjXy0tamdKd0RvdmJZdjRGUXkxZFNGb0ktN1I1VnhjUWNSNHowcnh1X2Q2ckMxLXgwaGl5dWNIdlgzS2I3T0h0YVFTOGY2U2xHZk9mOEtjTXcxVFdmOUFjaFlzbHpOV1BJRHc?oc=5",
-          "date": "2025-07-08T07:00:00Z",
-          "source": "Enerdata",
-          "feed": "Google News EN - FANC/ANC"
         },
         {
           "title": "Restart and extended operation of Belgian reactor approved - World Nuclear News",
@@ -1637,14 +1411,6 @@
           "date": "2025-05-16T07:00:00Z",
           "source": "NucNet",
           "feed": "Google News EN - Engie Electrabel"
-        },
-        {
-          "title": "Belgium begins consultation on SMR design - World Nuclear News",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0ZiLXpRS0tlQU5vNEw4NTRNX0g2YThZLXM5MFlPblBhTnFiX1lURUFfaHQtbHhXeEVWUU5zWlgzaUZqbmVyRFhOTWJtNEw0dGhBUkhfMUZSRGJOTGdKdVB6RG5VdVhHY2N1enNxQWZRNzFiMGVQN0c4VHVHd2pkNWxhQXlCNmw0cTY3YzRn?oc=5",
-          "date": "2025-05-15T07:00:00Z",
-          "source": "World Nuclear News",
-          "feed": "Google News EN - FANC/ANC"
         },
         {
           "title": "Nucleaire waakhond FANC: 'Weg naar verlenging extra kerncentrales wordt tijdrovend en duur' - De Tijd",
@@ -1767,54 +1533,6 @@
           "feed": "Google News NL - Kernenergie Belgie"
         },
         {
-          "title": "The U.S. and Belgium advance insider threat mitigation at IAEA conference - Department of Energy (.gov)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZjanBrOUtpZVhWZlZ4TFVVZ1BjZC1lWmtwSkJkZzdPVTA5NzJ1cG1KQjlsb0FzQWhSSTdCWEZfQ19wdEE3c0lWR2UtT1lCQ1JqWXEtQzZMQ0Rmb2lWUnAxMHZVOFF4bDV4OHd5bFZzNXNRbjlvV0l4ZlQ2U25kdlFzbGwzanhyUHJnSXlPSThRcDdGUzJYdE9IRmRzTGhmVVNR?oc=5",
-          "date": "2024-05-30T07:00:00Z",
-          "source": "Department of Energy (.gov)",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Let’s Talk About Nuclear Security - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OcVlpOVFxNGxHMkRBekFRVEU5eFdpYTZFWXNkWV8zcTh2UDBqSmRISVUyNV9EdU5KMmdCR3FKNlhHT0gwN241aHJncWlVS0hVNy1CUDREN2c3dU1pOEVVMDMxZkJWaXhGLUhNMWpR?oc=5",
-          "date": "2024-05-16T06:25:32Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Radiological protection during decommissioning – the WGDECOM working group holds its 14th meeting - Nuclear Energy Agency (NEA)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVR2TDBDazJfYW5ZRWU3cGVkN1dGemZSU0FQa2czWkx4LTJFNkNpX3E2eERoQ0ZCVDUtQ0NfWlNuLVJ0Ym9YckNtWE1VSXBwaXZCcXJoRGJ2YUNFM0xCNGZKcXhpVWdQcDdfalZmZTJJSXMwMW1iMGxHUnBaRVZKWGZDVkhOMkc1UjM1Z2RGYXlwbFFBYnJybGFHUUc2b1BpdEFlMjdVbHp3Vm16ZThDSnRnMk8wWFpIQVhSY1NhZktULWViclNNT0dpVEtXT1E?oc=5",
-          "date": "2023-11-21T08:00:00Z",
-          "source": "Nuclear Energy Agency (NEA)",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium committed to nuclear safety, says IAEA - World Nuclear News",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHZHeXQzaXEzQk5aOFlwdnJVYXRzSExyTFlKV2tHUkJXY1RqYUMxekpVNEdGR3llRjhaZ1JKUHNZNXVxTmNEM0ZaTmdGYk9nWEJpZG9ob0dYc0txU2JYeU11NjBRRGRoeEVzRnRYdzdzaV9taTIzSmdmdDVQeU9ZMFJTUEtNTWJzeFZRY0RmSnY1bHh4?oc=5",
-          "date": "2023-07-04T07:00:00Z",
-          "source": "World Nuclear News",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Mission Commends Belgium's Commitment to Nuclear and Radiation Safety, Identifies Areas for Further Enhancement - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXhRWEVtOXZabXIyTHFWZXpSYXNKOE1vcTNKLW5NLUQ2VXZzaDNFQy1pU2d6MWtOMG8xWHNKVWprdDFSMDRvQUxaOTVHVXNxZjEwaG9hZTBYY0lYdTFGdVU0R1dDdGUyRms5aS1LOGJvdEZGWDZJWnZtakF3b0pyRW9NTVdEbTlvYi1zcGxjSXZmMTVZRHJFX2taSnlMM09wMFFZSkJpOWdWTUhvMGYtLS16NDQ1ZTZMbTgwU0NidmhMVUJkZW5mdkIxbE4tc1pyUDZ3MzYwZ0Z2SWZ1em1pUmFUSkc1TlNnNm1ZSWcwcjg?oc=5",
-          "date": "2023-06-30T07:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Belgium / BR2 Research Reactor Plans To Switch To LEU Fuel In 2026",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDlPSkhwXzQ5d21jT2w3bTZ1VDZkS2pMRml2bzMxUHJhZlBQdzVZdXpxY25sWmpXbDdFTGdtOHJDVDBPem80R204bXZOQlBuX0RKV056TjBFY1pwNVdDa3d1Ym5uOVZyNXBZT2JLT0l3UUZkbHVzM1lxTjdEYVlhZjFjb19Gc2xKR1lfRUdGZVA?oc=5",
-          "date": "2023-03-27T07:27:50Z",
-          "source": "NucNet",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
           "title": "Belgian regulator opposes life extension of oldest reactors - Nuclear Engineering International",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnMtNUhqa2JlbGNXWGpjYlJUdURXWjFxQzUxVW00a0VkYUpOWThOOWFtVzBLb0FPOWdyQTVkamM5UDk0XzhreENKZFpxWWstc1paQ0JKSXVaZGZQV3lDS0dhNUVmY2MtUE8ycUVpZTZCYTVUWXpBWFVJdWtjQ29jVDNheVZyTWNHOVRvWVBtU2JSeExHeDdPVTlYendQM0tNZEc2bw?oc=5",
@@ -1823,28 +1541,12 @@
           "feed": "Belga/Google News - Nukleer"
         },
         {
-          "title": "IAEA Mission Observes Strengthened Safety Measures at Belgium’s Largest Research Reactor, Sees Opportunities for Further Improvement - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORllyaUtOSURLUzFpcGZVcGxsZEF6SUZQRWlTcm9GRmJ2bzhfZXJ2M2FaRGEzY2VkSE1BMDVuc254aG8yNXBoM3o5OGgzblBfbFlkZ2twTkdrdDI3SlVaTFVzYWtFQ2ZETlVndHRIc2diTFd2RWNOdXNuQkFTZngzbG9OaF9xVkVGQV9lZ3NoWGRKby1pS2liVHpjdnBSR3JkVmgtNnR1YkFLR1FsN2haMHBjaTdCWUxxdGlMNHBuS3VmUGNPdzJ6ak5wRWNUODBlaXR3YVRMYUs5WHY2MEU5dU1qb1lNbTdBclg5NXdUaXRhYnlZV2h4TzBiRy05WkRtVHBLcFhR?oc=5",
-          "date": "2023-03-08T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
           "title": "Jongste kerncentrales moeten stroomtekort in 2025 vermijden - De Morgen",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRG9FRURyc0dFTHlNQS1SaTdFeXUwNGpkMkZ2aENOMFdJRkp4Q0J3LXV1aFRzQ3BZYVlaVDdxX2Fselhua0NSa3VEdE5GV0c4Yjl0ZHlTRWo2d0dmM1NNVmpiS0lEZ2JuTlNFR1RobHpLbUxwU0Y5RWRkQkVIUk04TUZkbzdsMGVyd2hnaldIQjNOVmJqZkhsMkxscHV6N05jM3c?oc=5",
           "date": "2023-03-05T08:00:00Z",
           "source": "De Morgen",
           "feed": "Google News NL - Kernenergie Belgie"
-        },
-        {
-          "title": "EXPERT ROUNDTABLE: The NEA Regulators' Forum (RF) to celebrate 20 years of international service - Nuclear Energy Agency (NEA)",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHAzRi1yTzhNV1oxOEtPMFh4N2ZGZXo3SUhOVWhZVmxrWmJiQWZqbDJYNHktZjAyeEttcWtFQm1LbzZ6SHppM21jSl9ubDdtakhfS0pvR0NHbnZwaXVVUlh6SHpLQnd1RjhYUmloRnJNalBKaWdaVi1nYjhPSGdDLVVseVE3U1llWXhPd3kySDBKRFRPMHJXcjByQ0dtSW5JQzBYbW45SzltZ2gwUzBUdU05SXNrOGRoZzQwbjJyVEF3Wmp5cXc?oc=5",
-          "date": "2023-03-03T14:14:06Z",
-          "source": "Nuclear Energy Agency (NEA)",
-          "feed": "Google News EN - FANC/ANC"
         },
         {
           "title": "België zet tweede kernreactor definitief stil",
@@ -1895,14 +1597,6 @@
           "feed": "Google News NL - Kernenergie Belgie"
         },
         {
-          "title": "Extra problemen vastgesteld bij kernreactor Tihange 2: betonijzer blijkt niet op de juiste plaats te zitten",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVJUc2tuV0NheTVMdEdOeHlmYmNPQnNsQ011WGJQSVFHREJ1VUVRb1RDZEhsTzM5MGJwSEhCZ203RVhLX0hFZXlHU0dSMVBhWXNBM3lKMHdmbHBHZzhkdC1yVXZnTG1feUhQSHctLWp6cU1UUlhFX09MODcwRG02c2JxM29JYkZNUi04SUZJbkdTbE1sV2lQNm81WW10VXR0bzVsZlp3?oc=5",
-          "date": "2018-10-02T07:00:00Z",
-          "source": "VRT",
-          "feed": "Google News NL - Kernenergie Belgie"
-        },
-        {
           "title": "\"We spelen Russische roulette met Doel 3 en Tihange 2\" - De Morgen",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzgwQmpuVGhJWGdiUlFENHEtVU1sVWh1VTZ4MWlXeVh0UUxrYzJjUEszaWVKeWRCMFYtV2wwa05seVdzTVc4Y0NyU09aTGcyb3R6TVhyZW96cHZJcWQ4UFVlaThHQ0gwVnBnMzdmM29qZGx6aEVTQ2I4d3ZoTVFaTTFWNE5haDdEUk5rajVIaGtDbVE2Q1VyaQ?oc=5",
@@ -1927,28 +1621,12 @@
           "feed": "Google News NL - Kernenergie Belgie"
         },
         {
-          "title": "IAEA Concludes Safety Review at BR2 Research Reactor in Belgium - International Atomic Energy Agency",
+          "title": "Is de Belgische kerncentrale bij Tihange echt onveilig?",
           "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXNYWVNNb1RCZmFLWndyUTBwZmlKc1h2VHRKWTJLNzZkZHdzSEk5YzBwZGktTE9WN2Rxb2NHS21nc0lfanhVZEc0dDdKelY5V0FhUlhYM2lvNFYteXRMUnl1VUZaaW9fdW1VYU9aOU02aHBBaGdscUlLVkd6dTQ1dmZTWjVVX0NfSi1sbmNsc1l4V1lIU0JsNEhJT2pYRVlfVjRGWktSX3hvcUVl?oc=5",
-          "date": "2017-11-14T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "IAEA Concludes Safety Review at Doel Nuclear Power Plant in Belgium - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTVadUE0LU05ekZMRTFsakpiRmx1aEhUVFpyYnhmVUNEMnVmUjl5Z0lhenZUdUVFNkpBMlJJZEx4ZEtySFIxZk5aS0ExWDVad21ETVNicnpXVHYxWnpWRzlOeWJzMmxQdHJobnczQ0JjVmtNLUpRemY2SU43WnZlUXlETzFfSVliMk1ESmFBeHMwM3oxSjl3cHE1X0RFa2xrNFZqVW1oV1E2eDN2UXk5eUFB?oc=5",
-          "date": "2017-02-23T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
-        },
-        {
-          "title": "Renewed doubts on Belgian nuclear safety",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkppcWtzU2wzUHFMaGNoZkhBT0lkLUJQNF9Uc1k1T1RxOTFvSnNfZmliVHI2OXV4Z2hrQWFwQmpiUkpkdEV2b0FmejM5dUlja0pHSXo2NC1kT2tNWFJybjZWSnhtSFl3SVI1ckRNeFQ5N0ExN3R3bmV3bkdZRHpYMU9Qd0JFV3lmTEFkWjA2WG_SAZABQVVfeXFMUHo4bzRRUGQ4S2FCejNHSTlnV1dFME9KXzB2RXpJLURrbnRLNmZ5cFBFSmNuMGRYWnI3ZVc4QkJqQXYxb2JXVEN3eUFmWVp0a0F0SlZaUWhjZXZiN0VKVWNDME13dTBXTzdYVHFoNXVubGFEM0UxS3VDTmVoRXV0QWlQcVBLSTBWMEF6aUZRMTFq?oc=5",
-          "date": "2016-04-21T07:00:00Z",
-          "source": "DW.com",
-          "feed": "Google News EN - FANC/ANC"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVm5vcjhuRmR2LWhzVThIclN2MnF6Zk81SGlJZVkxdWczZTZLMVQxdWk5M0N1OGk0MTdlOEdPWWU3VW5kT1B4Q2ZicHpRcERGekJRemtaR250S0FXaVo3VVBucjZkT1NXclBGRzZRNmUtU29XclE0UC1PVWFXQ29OWnk2c01sMzEwSkJlamRIOXBWZ0hGaXhz?oc=5",
+          "date": "2016-09-07T07:00:00Z",
+          "source": "Trouw",
+          "feed": "Google News NL - Kernenergie Belgie"
         },
         {
           "title": "Veel meer scheuren in kerncentrales dan gedacht",
@@ -1957,14 +1635,6 @@
           "date": "2015-02-13T08:00:00Z",
           "source": "VRT",
           "feed": "Google News NL - Kernenergie Belgie"
-        },
-        {
-          "title": "IAEA Reviews Nuclear Security in Belgium - International Atomic Energy Agency",
-          "summary": "Belcika nukleer santralleri, duzenleyici kurumlar veya enerji politikasi baglaminda bir guncelleme.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43VXQ2SnRUZ21MVVo0aXlZOV84MERhc3l5LXBOS0RYRXhkXy1wV1lrQnBNNUVYeFlicGlCbTRTMUNYS2JaOUltTEV3VXU4RjVkQU44TkFfWGZlanZjU1ltNm5ZempLc1YxdjlQQ05FRFZVTkpEdl9aVXBGV3lhdw?oc=5",
-          "date": "2014-12-11T08:00:00Z",
-          "source": "International Atomic Energy Agency",
-          "feed": "Google News EN - FANC/ANC"
         }
       ]
     },
@@ -3387,6 +3057,14 @@
           "feed": "Disisleri - Lahbib"
         },
         {
+          "title": "Egypt, Belgium discuss regional de-escalation efforts amidst Gaza crisis - الهيئة العامة للاستعلامات",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmhtMjVJeDZYN25OQ3VRN21mX3BEVmZLQ2RMXzVtdVU5Qkg5V3pDb3pPbWRuX2lrYTMxd2dPeDd4QXNWRERld3RhNTNwTTk4cjFIOUswM0NfdGR6d2RzMWFLXzRJVzdydmljQ3NoUkxvWDVORTNZRHJLdXBHWVpGN085MjFoWUJRWVd2NnRRMG0zdXJNcXBzNEF0WHRXRWV4eno2djczbktHVlpfN1Y4Rjdn?oc=5",
+          "date": "2025-10-27T21:27:43Z",
+          "source": "الهيئة العامة للاستعلامات",
+          "feed": "Disisleri - Lahbib"
+        },
+        {
           "title": "EU ‘not ready’ to raid Russian assets for Ukraine loan, Belgian commissioner says",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWNnOGJENndTNGVsYnpQdmRaQTMxV0lUdUpkV3RrOHlfNlp1dHRoanpHTldwQ3RzUkFMMHRmMDFTVGZxS1FPM3FIM012ZUZNNGtUMDU3Wm9QR0dEYThuWml4cDl5UjlTRmxHVnVpQjVoNzJDTFM2TUM1SEJYVGRQcFV3U1NQaXJuc19SenJrOG5reUoyNVJBQkxvaXpZT3JPcjFtRDB6VXdKdUllbTJXMW84WUVQUQ?oc=5",
@@ -3443,14 +3121,6 @@
           "feed": "Disisleri - Lahbib"
         },
         {
-          "title": "Belgium to provide International Court of Justice with its interpretation of genocide - The Brussels Times",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUpsZnRUOTd3VkZlaUtSbFpmV0tOc3lYeW56alJPWE9zR2wxVlNicnpDMi1WTUhJOURmWWZRbVZFLU5oNDRuWWVvZnM0ZTdlQlV0c05aZ01mNG83TG9SOXc3QmFmeGhHYUZnOEdqS3NLUDIxcWxSSFU4NVU5bFRJQXNzelFFTEVlb2VaQWRWMXJvRk5lNkxZbmJlbDRtMkNsRWxNT0JmODNMdUxKM3lwWDVZdl9vU3ctRThXY0FORQ?oc=5",
-          "date": "2024-03-11T07:00:00Z",
-          "source": "The Brussels Times",
-          "feed": "Disisleri - Lahbib"
-        },
-        {
           "title": "Belgium summons Israeli ambassador after its building in Gaza is bombed",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2M2UjlBWEprdHJFamVMRGI0eFRZeWRIc2V5UnkzN1dpRFhWSUdYRS1lNXdmbzVFTmNjV1VNTUlwRkpLZ1J6WURjSlRtRk1MWWlDdkFfZC1sLW5sdEZjWHloV1pOUzZQcF82ZkpfVndrSGs3S29fWmJSclRDSHY2bDdBVkFfWmNtUjkxV0oyUEpLUnRqc2N2X3JROXN4OTNtQ1FkS3JYWlA0WG1fX2M3MnNZVGVGZUFkcG8wOW5Kbw?oc=5",
@@ -3467,14 +3137,6 @@
           "feed": "Disisleri - Lahbib"
         },
         {
-          "title": "De Croo distances himself from minister's statement on German support for Israel",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXdWck5HMlljQmx6QjUzNzV6TGVFa1piRnExQnFGbjRSc3pmQWVpb1hJT3NkakFCTGJzU09BRHFfYmpmMWVHeEd2WTdSNERfSlhsMDdpOW5hX29yV052SUFaazkxWUNGOGpjOHh3WDJpb1V2NkxhMENZUkRlVzZUTUJpelpOYkNFdzRHZ2piU0FHeW5LTVZPbFZ6S0w5TmxsNkV2eV92YzR1VGpLMGc?oc=5",
-          "date": "2024-01-12T08:00:00Z",
-          "source": "belganewsagency.eu",
-          "feed": "Disisleri - Lahbib"
-        },
-        {
           "title": "Belgium Urges Baku to ‘Publicly’ Recognize Armenia’s Territorial Integrity, End Artsakh Blockade",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHhBOV9HVmpWRGxiODNMOEE0a05ZTExPbnM3bzh0RXg2YXc1azhaNzl2OWVaR3FLblVORzFNRS1CcHJ4V2Zibnh2dk9VNVVLYVQ3V0I2XzZZNzBfOW41VlpzQXlBdnJOQkRxUmNyZ01leFY0Ml8xLUVub1htVklnYWtxc08ycjYySDlKbVppcDF0TnBVSDJmRGJFdlU2SmlVX3pSUS1UNHktaHNMR2hKdHNRYw?oc=5",
@@ -3483,11 +3145,11 @@
           "feed": "Disisleri - Lahbib"
         },
         {
-          "title": "Armenian foreign ministry releases details of Belgian FM’s upcoming visit",
+          "title": "Foreign minister apologises over Brussels summit controversy",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxMFBDR19JWm5NMUl2N2lTSHl3U0VkaUpzekFqdXRZeGdpMmp6eWkwazJpZUdOSWRjSjc2Q2l1bUhDQTItRTVxRWJfS0cwNFpoX0HSAVdBVV95cUxNWUh3UnNvRmFSOEZzTUhUSEl6VXlSNG5NeFBMNXp1bHBJR2ZSRHdzM2x0SnlZWHY3V2pkVVpRUTY0eUU4bzdIYzhaeUZtb2ZCbEtoUG1hLWs?oc=5",
-          "date": "2023-08-21T07:00:00Z",
-          "source": "Armenpress",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmhXeVhmQUdRaVdaeUxQUmszdF9lOGl5QlhtNWZQWVB5YkQxdURTLTliNkwyVkFlZ0xCQjJPeWwxYmtuQ2x3MWZtX2hja0xnVXVvem5DQ280RDdtTjJKbnJpazh1Z1hHSFk3SzA3cS1XOFAxSXBQck9qQm9FNm96S0pNRWZpbkxRdXpOMU1rajlhTjFuWDNRV1diV1M4YlJQ?oc=5",
+          "date": "2023-06-26T07:00:00Z",
+          "source": "belganewsagency.eu",
           "feed": "Disisleri - Lahbib"
         },
         {
@@ -3512,6 +3174,14 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajhId040UFk3WTNmazhRMGxHX3o4MFNzZ0dVT2xUaDBBTlJvSXNwUldiV1JiTWlHNTFZYUJtRU9YXzlLdFhXdDF5SzBRWXhXS2lOUTVVUGU3VXJKT1p3blAxYjBRY0c3cWU3N2NJRDZMSVV6NkVoaEVUYm1SZTcwem5xQ3hUZTNQaXNReHdNR0hEbGw2dVNLZ3BVTEY?oc=5",
           "date": "2022-11-10T08:00:00Z",
           "source": "belganewsagency.eu",
+          "feed": "Disisleri - Lahbib"
+        },
+        {
+          "title": "Belgium Foreign Minister cuts hair in Parliament in support of Iranian women - Middle East Monitor",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0h5WTl2MExFYkpyVjZXSHRqRXVBU3NPUWVPZWlMOVNQbDBTUUY0Uzg0RGxsNFFwZ3RZU2NVRThYV2ZMcGRrVGJwQi1EOVdNeFZ4Z2NsVG9VR1dBdlhaN1dyc25MTTZnUXhCZy03aGY5S2FleUNlYTl4Zk5OZWs1dV94STB2NHA5SFRWbzJERDVKWWVVR1FpS1NyVkhIdUZGRlZEaVc0akp5YUJFQXlpS01BdGU5aF9LLUxCT9IBwgFBVV95cUxOUWNYeDZoRHVxSEpYaEtlcjZDY3c2czdKak4tRWtJTURjWUF4TTRXS3l2ZlRLNnRpWlhabFZIeFExcUlWdHNPLVFkLXM1bWwwNy0tSmp4b3VtSVFGd2Y4U1BzMkR0M25xcldtQnVkS0VuaE4wUnJnX0VkR1FMUGZ1MnpJU0NILUxwRDZNWnRab25kdUFZckVPSzNZQ3U0azFCY1lUbkNVbm1BVUxrcFQ1OWtsYktmUnpLcFZpaVhhTURHdw?oc=5",
+          "date": "2022-10-07T07:00:00Z",
+          "source": "Middle East Monitor",
           "feed": "Disisleri - Lahbib"
         },
         {
@@ -4675,19 +4345,19 @@
           "feed": "Google News EN - Belgium PM office"
         },
         {
-          "title": "Putin Expresses Condolences to Iran's President Over Khamenei 'Cynical Assassination' - The Moscow Times",
+          "title": "Explosion Damages Synagogue in Belgium - The New York Times",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLU9fMlpfZmxNV0FqY0ItUlJXTnFiTmlUakhTZ2RqNmVSdHJVcUUwSE9ndjZsUVJ6aDE4SllvRTNhX0l4VVZMa1p6bDE0bEs4RXpDUEJEUl9NR3pndlNvTDJIMjIydEc2elc0V1E4alFJT2p0ZkRaNFcxRlpBa19xc3h3VEt3a2hIWEVOV1VvanhuRXpvNzdkMjlpUHRmNkZuSFpQUHVJRG5ENDA0VVN2UjNmRjNrR0NicFhvSzVRbDR0dDVIX0ZUQUxubw?oc=5",
-          "date": "2026-03-01T08:00:00Z",
-          "source": "The Moscow Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQm5pU1RiWkNEQ0NZRldTVjl2bmRRNXFWZEtvWC1tQlpLTHVRV0ZocmFWN01YNWFFaFNxUk1uOWxGT283RWdVNUNQak05VHhUdmNiODd1RlY1WTBMTW05dktYMXRzdFZ0SVU4Q2dmNkN6SWo1UTB6NWtzZEZBVmsyVzFmQzVWTVE?oc=5",
+          "date": "2026-03-09T07:00:00Z",
+          "source": "The New York Times",
           "feed": "Google News EN - Belgium PM office"
         },
         {
-          "title": "Israeli PM to meet U.S. Secretary of State Pompeo in Brussels",
+          "title": "Belgium Seizes Russian 'Shadow Fleet' Tanker - The Moscow Times",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yVEpwaTRKd2Zwc1ZZd2M2ZDRDbE9scFBzdHVqaDNQWWxaMHlOMHpuY1dLeXRWUVhfRVlZRzZpelBsZy0xdnQ4NEVyalRCNVhCLXpTX0Rhdw?oc=5",
-          "date": "2026-02-06T01:45:32Z",
-          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaU9CWjY3SGdXcnRpeENUa2FfTGNlVjFBancxbFRKLTNQMWNHN0p3Zjdmc3d0MWpNMHRieHAyal9MVVBOQWxBSXJQMEQwQkd1WUVsT1FVb2JLSm5rNEppc09RWXljdXRxeE41MXlOcHhlT2NBYnY4eHZ0VWFaVEVOVGEtTHNjX01LeHpxQ2ZPMFRCaGN6VUE?oc=5",
+          "date": "2026-03-01T08:00:00Z",
+          "source": "The Moscow Times",
           "feed": "Google News EN - Belgium PM office"
         },
         {
@@ -4704,14 +4374,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2kxTjlmUGFoRFJ4MVB1WmpjUkpUN2VTV0JhLUl1NkVqNm5iMFNJazkzR204MFIzVXFfWjRKazMwbmFJNlpGU0g3RzdmQVAydWR5UWxHYVZsLUtRa0puT2xQcnpXcnUtM28xZWRkMHI4MkFkTTBKcENWRkNfamxSbTRVdzBOZWd3X2dLbmZTb29Hc1ZQRVlhOXhwMHd3SzRzNUk2dE9PVQ?oc=5",
           "date": "2025-12-12T08:00:00Z",
           "source": "GOV.UK",
-          "feed": "Google News EN - Belgium PM office"
-        },
-        {
-          "title": "Former E.U. foreign policy chief detained in fraud inquiry - The Washington Post",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3BhRXRoblR3WkI0bVlkVllRZ0E3RUVVUkxWNWRneGRYWWxNcUpWQm1kd0tCOC00M3JTemk2VnlrX3Jpd3pmVkw0TmwyVHVQRll2U3lLQjhjLTVUTWJTcHpTZGxMUjNnYVhuZE5kUXN5ZzhmdHVoTXQ3Zjl5ZmtwaUxvMHhqR3F6UE1SeHluNA?oc=5",
-          "date": "2025-12-03T08:00:00Z",
-          "source": "The Washington Post",
           "feed": "Google News EN - Belgium PM office"
         },
         {
@@ -4800,6 +4462,14 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2JZMDIteXp4N08wN25XVUhHVC1ySW1HY1FOek9JN3FldUhJQ3BSZTN5bktyTzlTMWxSRHA0SUpuRVNNY0tYZnB3SDVGeHhXU3NZMU9zU3RxUXBsS2l4TkNTdWhnbnhfdmkyLXB1MEJ0ZUF5UUt3ejVES0RGSVFRS0xHNnVqcHJiZXh6OVAtUUsyMmpfVmxNUUVfQXBYN2s0aVVKOA?oc=5",
           "date": "2025-02-03T08:00:00Z",
           "source": "AP News",
+          "feed": "Google News EN - Belgium PM office"
+        },
+        {
+          "title": "Diaspora Minister Chikli cancels plans to Belgium over legal threats - The Jerusalem Post",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbXR6cWNULXphSFVvWGViZ2JEc3dKR1otbDdxaWlfY1VIQ1hWMHFZWWc0RVdIbWVBY1R1MTJTcjc5X1J6WkRWXzhXc3BsLWdRODJWZ2J4dU5KekNa?oc=5",
+          "date": "2025-01-28T08:00:00Z",
+          "source": "The Jerusalem Post",
           "feed": "Google News EN - Belgium PM office"
         },
         {
@@ -5285,6 +4955,14 @@
           "feed": "Sosyal Medya - Lahbib"
         },
         {
+          "title": "Explosion Damages Synagogue in Belgium - The New York Times",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQm5pU1RiWkNEQ0NZRldTVjl2bmRRNXFWZEtvWC1tQlpLTHVRV0ZocmFWN01YNWFFaFNxUk1uOWxGT283RWdVNUNQak05VHhUdmNiODd1RlY1WTBMTW05dktYMXRzdFZ0SVU4Q2dmNkN6SWo1UTB6NWtzZEZBVmsyVzFmQzVWTVE?oc=5",
+          "date": "2026-03-09T07:00:00Z",
+          "source": "The New York Times",
+          "feed": "Google News EN - Belgium PM office"
+        },
+        {
           "title": "« Les grandes déclarations sont rarement productives » : le Conseil National de Sécurité est terminé, voici les trois priorités de la Belgique face au conflit au Moyen-Orient - RTL Info",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQnZHRUVocGVCajBoejB5dTBNVVY1MXJVSDhFWWVUaFRLR0x3M0tXUHh3Vy1yb1J3ZE84QTZXOE1IVmlIQldKV2tKQ2NaTnFjSktaRlM5NVlZVElXNS1ONHZrSnhxRW1yQXZyUDZ6UGZtODVuYS15ZHRWMXhLNFBSLXhTSjRzX3k0SzJYN0lUNmtSd0VxQjVSbGF2T0FNdmxmMVhUb0xveVNRek5fT204WEUtV3JkcF9HV2hlUVlianVNNy1NMUl5ektJWFRQQXNvWElBNjQ2TFpfZw?oc=5",
@@ -5341,9 +5019,9 @@
           "feed": "Sosyal Medya - Francken"
         },
         {
-          "title": "Putin Expresses Condolences to Iran's President Over Khamenei 'Cynical Assassination' - The Moscow Times",
+          "title": "Belgium Seizes Russian 'Shadow Fleet' Tanker - The Moscow Times",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLU9fMlpfZmxNV0FqY0ItUlJXTnFiTmlUakhTZ2RqNmVSdHJVcUUwSE9ndjZsUVJ6aDE4SllvRTNhX0l4VVZMa1p6bDE0bEs4RXpDUEJEUl9NR3pndlNvTDJIMjIydEc2elc0V1E4alFJT2p0ZkRaNFcxRlpBa19xc3h3VEt3a2hIWEVOV1VvanhuRXpvNzdkMjlpUHRmNkZuSFpQUHVJRG5ENDA0VVN2UjNmRjNrR0NicFhvSzVRbDR0dDVIX0ZUQUxubw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaU9CWjY3SGdXcnRpeENUa2FfTGNlVjFBancxbFRKLTNQMWNHN0p3Zjdmc3d0MWpNMHRieHAyal9MVVBOQWxBSXJQMEQwQkd1WUVsT1FVb2JLSm5rNEppc09RWXljdXRxeE41MXlOcHhlT2NBYnY4eHZ0VWFaVEVOVGEtTHNjX01LeHpxQ2ZPMFRCaGN6VUE?oc=5",
           "date": "2026-03-01T08:00:00Z",
           "source": "The Moscow Times",
           "feed": "Google News EN - Belgium PM office"
@@ -5419,14 +5097,6 @@
           "date": "2026-02-09T08:00:00Z",
           "source": "RTBF",
           "feed": "Google News FR - De Wever declaration"
-        },
-        {
-          "title": "Israeli PM to meet U.S. Secretary of State Pompeo in Brussels",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yVEpwaTRKd2Zwc1ZZd2M2ZDRDbE9scFBzdHVqaDNQWWxaMHlOMHpuY1dLeXRWUVhfRVlZRzZpelBsZy0xdnQ4NEVyalRCNVhCLXpTX0Rhdw?oc=5",
-          "date": "2026-02-06T01:45:32Z",
-          "source": "Ratopati",
-          "feed": "Google News EN - Belgium PM office"
         },
         {
           "title": "From EU critic to European statesman? Bart De Wever's surprising 12 months as Belgium's PM - The Brussels Times",
@@ -5677,14 +5347,6 @@
           "feed": "Sosyal Medya - De Wever"
         },
         {
-          "title": "Former E.U. foreign policy chief detained in fraud inquiry - The Washington Post",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3BhRXRoblR3WkI0bVlkVllRZ0E3RUVVUkxWNWRneGRYWWxNcUpWQm1kd0tCOC00M3JTemk2VnlrX3Jpd3pmVkw0TmwyVHVQRll2U3lLQjhjLTVUTWJTcHpTZGxMUjNnYVhuZE5kUXN5ZzhmdHVoTXQ3Zjl5ZmtwaUxvMHhqR3F6UE1SeHluNA?oc=5",
-          "date": "2025-12-03T08:00:00Z",
-          "source": "The Washington Post",
-          "feed": "Google News EN - Belgium PM office"
-        },
-        {
           "title": "Belgian soldier dies during NATO exercise in Lithuania",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmhQbUdnUUVHb1BLZnVOdElybHlDQ3k3WmVBRm5aVjlfMkI3NEoyVENNaTBndVBWLXVKUHVqdXE2akdfalFaWllvamw1Y1lLVWtZWEN4dmExbmVFU0RUd2pvYk1CeW5feGp3b3FoNDNKUlZLREVYY19lOWJBajhsZU9zRm1aaDl0WjZ4Vy01Z0Q?oc=5",
@@ -5835,6 +5497,14 @@
           "date": "2025-10-29T07:00:00Z",
           "source": "Anadolu Ajansı",
           "feed": "Sosyal Medya - Francken"
+        },
+        {
+          "title": "Egypt, Belgium discuss regional de-escalation efforts amidst Gaza crisis - الهيئة العامة للاستعلامات",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmhtMjVJeDZYN25OQ3VRN21mX3BEVmZLQ2RMXzVtdVU5Qkg5V3pDb3pPbWRuX2lrYTMxd2dPeDd4QXNWRERld3RhNTNwTTk4cjFIOUswM0NfdGR6d2RzMWFLXzRJVzdydmljQ3NoUkxvWDVORTNZRHJLdXBHWVpGN085MjFoWUJRWVd2NnRRMG0zdXJNcXBzNEF0WHRXRWV4eno2djczbktHVlpfN1Y4Rjdn?oc=5",
+          "date": "2025-10-27T21:27:43Z",
+          "source": "الهيئة العامة للاستعلامات",
+          "feed": "Disisleri - Lahbib"
         },
         {
           "title": "Belgian government rallies around De Wever over Russian assets veto",
@@ -6045,6 +5715,14 @@
           "feed": "Google News EN - Belgium PM office"
         },
         {
+          "title": "Diaspora Minister Chikli cancels plans to Belgium over legal threats - The Jerusalem Post",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNbXR6cWNULXphSFVvWGViZ2JEc3dKR1otbDdxaWlfY1VIQ1hWMHFZWWc0RVdIbWVBY1R1MTJTcjc5X1J6WkRWXzhXc3BsLWdRODJWZ2J4dU5KekNa?oc=5",
+          "date": "2025-01-28T08:00:00Z",
+          "source": "The Jerusalem Post",
+          "feed": "Google News EN - Belgium PM office"
+        },
+        {
           "title": "Hadja Lahbib : « Les critiques m’ont aidée à être la femme politique que je suis aujourd’hui » - Le Soir",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZjBxLV8xbE5vQjRNb0Mwemd3TFBmdXlJeDF5dXJIVjA4OXdQUHR3aVZCczFvUFVJZnhvME9aaFlrLVJqMEpRR0ljVzc4Z2tWcmR0NmFJdEthLU5nMGtFNmt1QTBYNi1HV2s1LWJ0a1g5VlNTRWdZZTdOeU4wZGtFN1IyQXAzcVQ1a0hFd2k0VUFzWER6V0FwRUIzNWFGXzY5aUZDUXotX2NVR25oU2luNDRRTkllb2hoUmhVaXh3?oc=5",
@@ -6141,14 +5819,6 @@
           "feed": "Google News FR - Lahbib diplomatie"
         },
         {
-          "title": "Belgium to provide International Court of Justice with its interpretation of genocide - The Brussels Times",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUpsZnRUOTd3VkZlaUtSbFpmV0tOc3lYeW56alJPWE9zR2wxVlNicnpDMi1WTUhJOURmWWZRbVZFLU5oNDRuWWVvZnM0ZTdlQlV0c05aZ01mNG83TG9SOXc3QmFmeGhHYUZnOEdqS3NLUDIxcWxSSFU4NVU5bFRJQXNzelFFTEVlb2VaQWRWMXJvRk5lNkxZbmJlbDRtMkNsRWxNT0JmODNMdUxKM3lwWDVZdl9vU3ctRThXY0FORQ?oc=5",
-          "date": "2024-03-11T07:00:00Z",
-          "source": "The Brussels Times",
-          "feed": "Disisleri - Lahbib"
-        },
-        {
           "title": "Belgium summons Israeli ambassador after its building in Gaza is bombed",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2M2UjlBWEprdHJFamVMRGI0eFRZeWRIc2V5UnkzN1dpRFhWSUdYRS1lNXdmbzVFTmNjV1VNTUlwRkpLZ1J6WURjSlRtRk1MWWlDdkFfZC1sLW5sdEZjWHloV1pOUzZQcF82ZkpfVndrSGs3S29fWmJSclRDSHY2bDdBVkFfWmNtUjkxV0oyUEpLUnRqc2N2X3JROXN4OTNtQ1FkS3JYWlA0WG1fX2M3MnNZVGVGZUFkcG8wOW5Kbw?oc=5",
@@ -6162,14 +5832,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVNEenI1bzVVekd4R0g2c0tDdjNjUE5tVWFwbHBndVdtRG5iSlZ5NFpSTEhjTzVXVjRxZ3NDUzJFR2VpQmw5MU9kTkp6bTVZd05QY2lLaFFSckdZdTg1M3gtY25lSmtDNzktaklheXdlVXlpQk0yTXdpOXd2MjhqNW52RGJScmlNeV9FNWhZTzdqTW9yZUxJ?oc=5",
           "date": "2024-01-26T08:00:00Z",
           "source": "NASA (.gov)",
-          "feed": "Disisleri - Lahbib"
-        },
-        {
-          "title": "De Croo distances himself from minister's statement on German support for Israel",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSXdWck5HMlljQmx6QjUzNzV6TGVFa1piRnExQnFGbjRSc3pmQWVpb1hJT3NkakFCTGJzU09BRHFfYmpmMWVHeEd2WTdSNERfSlhsMDdpOW5hX29yV052SUFaazkxWUNGOGpjOHh3WDJpb1V2NkxhMENZUkRlVzZUTUJpelpOYkNFdzRHZ2piU0FHeW5LTVZPbFZ6S0w5TmxsNkV2eV92YzR1VGpLMGc?oc=5",
-          "date": "2024-01-12T08:00:00Z",
-          "source": "belganewsagency.eu",
           "feed": "Disisleri - Lahbib"
         },
         {
@@ -6197,20 +5859,20 @@
           "feed": "Disisleri - Lahbib"
         },
         {
-          "title": "Armenian foreign ministry releases details of Belgian FM’s upcoming visit",
-          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxMFBDR19JWm5NMUl2N2lTSHl3U0VkaUpzekFqdXRZeGdpMmp6eWkwazJpZUdOSWRjSjc2Q2l1bUhDQTItRTVxRWJfS0cwNFpoX0HSAVdBVV95cUxNWUh3UnNvRmFSOEZzTUhUSEl6VXlSNG5NeFBMNXp1bHBJR2ZSRHdzM2x0SnlZWHY3V2pkVVpRUTY0eUU4bzdIYzhaeUZtb2ZCbEtoUG1hLWs?oc=5",
-          "date": "2023-08-21T07:00:00Z",
-          "source": "Armenpress",
-          "feed": "Disisleri - Lahbib"
-        },
-        {
           "title": "Hadja Lahbib, une ministre belge aux abois empêtrée dans un «Irangate» - Le Temps",
           "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZy1YTmVsbWdKODE3cHIxN09yUURFR2ZDd3lUOTdnYVRGZDl0Rl85REFQMTNEV0tadWxYZDk0RllKUllYdnVQWEJBS0xfTTNqTno4Z0xMWUg3RHlnQjhfSVBFRTRQR3piQWkxSzdQV1VOWTRKUTNoWnptMGpKZTN5R0xJNUNhYnJNQlVRdWo1bjgyZENKUVpZXzBLVDM1VlNj?oc=5",
           "date": "2023-06-28T07:00:00Z",
           "source": "Le Temps",
           "feed": "Google News FR - Lahbib diplomatie"
+        },
+        {
+          "title": "Foreign minister apologises over Brussels summit controversy",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmhXeVhmQUdRaVdaeUxQUmszdF9lOGl5QlhtNWZQWVB5YkQxdURTLTliNkwyVkFlZ0xCQjJPeWwxYmtuQ2x3MWZtX2hja0xnVXVvem5DQ280RDdtTjJKbnJpazh1Z1hHSFk3SzA3cS1XOFAxSXBQck9qQm9FNm96S0pNRWZpbkxRdXpOMU1rajlhTjFuWDNRV1diV1M4YlJQ?oc=5",
+          "date": "2023-06-26T07:00:00Z",
+          "source": "belganewsagency.eu",
+          "feed": "Disisleri - Lahbib"
         },
         {
           "title": "De plus en plus de femmes dans la diplomatie belge - Mouvement Réformateur",
@@ -6299,6 +5961,14 @@
           "date": "2022-10-20T07:00:00Z",
           "source": "L'Echo",
           "feed": "Google News FR - Lahbib diplomatie"
+        },
+        {
+          "title": "Belgium Foreign Minister cuts hair in Parliament in support of Iranian women - Middle East Monitor",
+          "summary": "Basbakan veya ilgili bakanliklara ait aciklama ya da sosyal medya kaynakli siyasi guvenlik dis politika haberi.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0h5WTl2MExFYkpyVjZXSHRqRXVBU3NPUWVPZWlMOVNQbDBTUUY0Uzg0RGxsNFFwZ3RZU2NVRThYV2ZMcGRrVGJwQi1EOVdNeFZ4Z2NsVG9VR1dBdlhaN1dyc25MTTZnUXhCZy03aGY5S2FleUNlYTl4Zk5OZWs1dV94STB2NHA5SFRWbzJERDVKWWVVR1FpS1NyVkhIdUZGRlZEaVc0akp5YUJFQXlpS01BdGU5aF9LLUxCT9IBwgFBVV95cUxOUWNYeDZoRHVxSEpYaEtlcjZDY3c2czdKak4tRWtJTURjWUF4TTRXS3l2ZlRLNnRpWlhabFZIeFExcUlWdHNPLVFkLXM1bWwwNy0tSmp4b3VtSVFGd2Y4U1BzMkR0M25xcldtQnVkS0VuaE4wUnJnX0VkR1FMUGZ1MnpJU0NILUxwRDZNWnRab25kdUFZckVPSzNZQ3U0azFCY1lUbkNVbm1BVUxrcFQ1OWtsYktmUnpLcFZpaVhhTURHdw?oc=5",
+          "date": "2022-10-07T07:00:00Z",
+          "source": "Middle East Monitor",
+          "feed": "Disisleri - Lahbib"
         },
         {
           "title": "La cheffe de la diplomatie belge se coupe une mèche de cheveux en soutien aux Iraniennes",
@@ -6781,14 +6451,6 @@
           "feed": "3) Walloon Parliament"
         },
         {
-          "title": "Le Parlement wallon approuve la réforme des Pensions des députés",
-          "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXhvOVhiOTAwSDdPUVVmOUdhUjVoRl83cHp4enFvR2xPN3FVUkY0VFlUanZnUEFzaFhBY1p4TlJsOEVSNlc0MnJYV0NxMktweHNLVFZYbHJNMk1KYlV4SE9iTEI0MldHcVFxNFFYMFNqZUE0Yi0zX096LXNfYlFTU3p5M1RmLWhXZ25YLWM2V2ZHZVVLa2U5dkNXNzgyRngyZ1B6cVpsMA?oc=5",
-          "date": "2025-12-19T08:00:00Z",
-          "source": "7sur7.be",
-          "feed": "3) Walloon Parliament"
-        },
-        {
           "title": "Réforme du chômage : feu vert du parlement wallon au renforcement de la collaboration entre Forem et CPAS",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2F6QjdVOE1XOEpvQnVWYVZELVowU190eDdENUhKa2dmWENZZ1ZhWWtWaTJndmlISEx1eWRiSXVZRU5GVjJfbDFELTJMckhmMEkyajFmVjlVUTltTktZbTJ1d1g3YVVVbUFRMlllM2pTeHhlUUtHRHFQNnJGSHEtM3V4elVSRWw0WTFpRHRyb21ZNUV3aWUtSzF6YjhQQXlubUpocS0waF9tdXpZUXdtWHk5ZnBLdzQxV3hyMnln?oc=5",
@@ -6829,11 +6491,19 @@
           "feed": "3) Walloon Parliament"
         },
         {
-          "title": "Promotion et mise en conformité du cadre et statut du personnel : deux nouveaux projets de décret pour la fonction publique locale - Union des Villes et Communes de Wallonie",
+          "title": "Gazage des poussins mâles : le décret tué dans l'œuf, mais l'intention est là...",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ESk0zaTVvZGJNd0NpTm9kSGY2OHk1WENWcU85WjVjelpOSnFyQ2NvU2kzQXltb01fOUUzazJ1aVptaDViYWhiNjVhdW1uU3pmZ2hyczMzQQ?oc=5",
-          "date": "2025-10-13T07:00:00Z",
-          "source": "Union des Villes et Communes de Wallonie",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVUx4YzdmMGRYaGhaM2RYODlEMFgxVVY4NWlKWjRiLVBycGFNbkdjajJHenR2YlVGSTloczFEWk9ZVG1nVnF0WDRRcDFvaC1vbWw4NldVVTVvZ2ljc0hybDdLcHpWaG9na1hRMkdtQ1puakJrMVBtX1hrMjdhQ2VCRjNrRkZkak1rRkZpVmU2VDUtQ2JxQXZBa2kzdEZCT2IzX1RaV0dzNFRTS0t2d1l5ZThjMGp3UmticmJzRmpyOXZwcUYwbjdEUUl3cXp0SDF1bnYyMVR3NWJXZGpPcFA3a3R3dG43M2ZKNzJiMzdRT0k2UQ?oc=5",
+          "date": "2025-09-03T07:00:00Z",
+          "source": "L'Avenir",
+          "feed": "3) Walloon Parliament"
+        },
+        {
+          "title": "Réforme de la fiscalité automobile",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vYnVDTm8zcEdrampBejc2V3F6WEV0RzFrT0paR2pPNEphaHdBbC14b2VjN2p5d3JUNW03N2JfYS1EYzJhd3M3cFY1UFJmTXltc1hUTzdwQUVNRVZ2c05jVndGSVQzLU92ZGsyclc4ZEJNUDRqeHhfLU1mUkU?oc=5",
+          "date": "2025-06-17T07:00:00Z",
+          "source": "wallonie.be",
           "feed": "3) Walloon Parliament"
         },
         {
@@ -6846,6 +6516,14 @@
         }
       ],
       "4) Brussels Parliament": [
+        {
+          "title": "Chaos au Parlement bruxellois autour de la mise en place d’une commission d’enquête sur le Foyer anderlechtois",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUVJkUm9mcXliRFRiUzQ2enVMOWNHV2lta0hJb0ViM1VnUmVZSW82c1E5dEhWczVRX1UxWEVuSGRzUE9pNUN1YXZXOUotT3JycWhrTlhjYlhmZHJwVWU3RmYtekJQcTVzRS1EZWsxYTJCejEzSXIxS0ZBdV91dzd2ZndTaXpqMkxvSUtoYmZPVWJDZ0NzZFpGQmtGUThDVllMc291U0RMVmYtc0hfZ1YyT2FMVG5mLVRBLUdSLVZHX1AzRGZ0ZHQ1RzRGNVNwdGF0SnFhRlU3MnpUSmdxM3o1aQ?oc=5",
+          "date": "2026-05-22T07:00:00Z",
+          "source": "RTBF",
+          "feed": "4) Brussels Parliament"
+        },
         {
           "title": "Les discothèques bruxelloises mieux protégées des litiges avec leurs voisins",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
@@ -6879,14 +6557,6 @@
           "feed": "4) Brussels Parliament"
         },
         {
-          "title": "LEZ Bruxelles : la proposition du MR examinée selon un avis du Conseil d’État en 30 jours",
-          "summary": "Yeni bir tasari/teklif veya mevcut tasarinin ilerleyis adimi aktariliyor.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemJpallyeU5lbjY4Wi1aQ293SXRFY2JRNm9HLVYzWnBkaWY2bjlDODZpRF9DNnUxV25VZ1FxelpQb3FERm5MeF9GSnFhTHRQV2RHbXllUUpjVExBMldUeVdJR3lFWHpsS0JSQ2ZzRDd4eHlWeTdFdXUwZEs1czhyX3loTnNhU3p0cFpFRVZIVVBCR2FzU0ZzMDBuTjZPQUVhU1VHR01yNm9XcndTdE1yVA?oc=5",
-          "date": "2026-01-23T08:00:00Z",
-          "source": "BruxellesToday",
-          "feed": "4) Brussels Parliament"
-        },
-        {
           "title": "La proposition du MR de réduire les amendes en cas d’infraction à la LEZ soumise pour avis au Conseil d’Etat",
           "summary": "Yeni bir tasari/teklif veya mevcut tasarinin ilerleyis adimi aktariliyor.",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnFOQXlhYWFfbTVxMFQxUzZWemx6OERlWXVIb2hzUkdEOHB4bG9ELVQ0eTYxUFY0cTNOenFpNUoxOUtSd3loYUNSaWVMMnNXTGhuYmVaTnU2dkR1ZEg3NGZBbTdWRXg4N20zdE9jYVBfOVotempQaW50ZklMUGRucWNfbGVmSjJGVkxyU2dwMDR5QTZaa2RLdWlqSGRQZ1hQczdvU2p5QUZsMXBLYUt0TEgxR0twYVZiYWZfb3JOLTRwemVSX2dsYmZyVmJMWHJkNmxQdkMwd1gwdExaRHc?oc=5",
@@ -6911,6 +6581,14 @@
           "feed": "4) Brussels Parliament"
         },
         {
+          "title": "Réduction d’impôt, montant, frais complémentaires : d’importants changements sur les titres-services en vue à Bruxelles - RTL Info",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMjJyMUZYZ1JxaGVMMXlLUnFFWTVubU9UVmlXb2l6R1lJUk4tYUdTa3QtdUJSRkJNNDhPMEJ2VGwycnlBT1VIdi1WQjNKWGxzdXdYTHZnUXVkLUhJSmJxS2hfTmlZcDV4RWJpVU84b19iZjV6T0J2VXMyMFdTOVdtLXdrNzdlNmNUQnlreGtSOXo2MjVweE9aTTVTZTMyUG9zcEtiWUpibTBBbUlSZTVDa3gxbUNVZ2k4V3lVRXFodko1QVZZeGFycHZTU1VLQUVETHFQVHF1NDE2c0RseDhTWA?oc=5",
+          "date": "2025-12-13T08:00:00Z",
+          "source": "RTL Info",
+          "feed": "4) Brussels Parliament"
+        },
+        {
           "title": "Dernière séance plénière au Parlement bruxellois : voici ce qui a été voté",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnBBeVhldk0yRzZIQVowYXZKeHNsaUpvcmlpWjFrNk9qVmNoTHdmQUJaS2VaVXJxXzYxSkxTVEJkM0FkZHVXbUx0WWJwMHJTa1JSejVmZnp5c0VsS1MxSXoyaHNpYmh2UG5ybmNnSENoMnA0YXhUR0dvcnRsb0lTYm9kNHdveGk1aDRJZGg2bkF3YlUzMktfMnp3RXdjNzFGTG4zbDZVSQ?oc=5",
@@ -6930,7 +6608,7 @@
           "title": "Les aides-ménagères bruxelloises obtiennent enfin une augmentation salariale",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDBJeVJadVEyb1liT2N4R2o5aUluSTdFbzd5WS1OVVFLdzd0cjNlQTF4c2lHX0pTT0lLY1lPZ0pGS0cxLUQ4Q1NVUDFjNDZfQk1kMHJ5WTI4SmN6dE1ua2E5ZHhoRDB0QjJKSVFoSXFtN0JrT3FGbk9hQ3M4SERJRjdvVkltZw?oc=5",
-          "date": "2025-12-03T08:00:00Z",
+          "date": "2025-12-03T16:33:52Z",
           "source": "BruxellesToday",
           "feed": "4) Brussels Parliament"
         },
@@ -6943,19 +6621,19 @@
           "feed": "4) Brussels Parliament"
         },
         {
-          "title": "Logements étudiants : ce qui changera en 2026 à Bruxelles - Le Soir",
+          "title": "Les véhicules diesel Euro 5 et essence Euro 2 interdits dès 2025 dans la zone de basse émissions bruxelloise suite à l'arrêt de la Cour constitutionnelle",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnRkNzk0TUQ4VTFMTXlaYWNXXzhsZ1lFTV9lc0pZYlVYQlpHeFBsUHRqUkFqYnYyQ1VwS3hTcWxCeFpKeEp4ZlNnclZpQkUwZmRraGhkcHlhT1oxLVBvMmcyYjhEODNvYnZGOW1sRHZhQld5Qkd2cGZwbGNLOGtlOGhoQ0pJQVd6VnBENVhQci1UQ3YwSDVoLWs1bkdSRmdYLWpV?oc=5",
-          "date": "2025-06-24T07:00:00Z",
-          "source": "Le Soir",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGFOQ01mY3pNRmdNOTlMOVdSalRjLUhld2lhVGluVy1uZGN6bURMb1k2OXVOc2RaVllBU2dkaWVyVDFLbU5ycExvQ2dTZ0xjcUlJQjlSZFZUQnNYeFF0ZjhJalprLUphTVg2eFZXQ09LMnNGNTYzSXZEcnk4ZU5ZY25wOFJxWGNLYkZYcTVRanFydFE1bU1rXzBFYm1ReFpDaVlqVHNKeXdScTZnUGdKTVRUdVJvUm5kMmZJLQ?oc=5",
+          "date": "2025-09-12T07:00:00Z",
+          "source": "RTBF",
           "feed": "4) Brussels Parliament"
         },
         {
-          "title": "Crise du logement à Bruxelles : l'ordonnance qui lutte contre les loyers abusifs votée en commission",
+          "title": "Allocations familiales : du changement à Bruxelles dès septembre - Le Soir",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQzhhV0F5eGpNVXBMTE9XQkVrVFJQNHFWd3RyZ3ByYnE2eEJqTDB4V29MNWw1N211OE5FazZ5RVlJSjlBUm9OS0hSelJZT1c2Tm5SSEpjWV9mUEZoaTBJaGxCQldDTEtwNlpIOVIwaXpmdXdEdzZyYTQ1b1gxYXoweHF3aTJ2TV84QjA1R19fSlFaeWJDc2c3ZVV2MFlQYjNBOFU0N1E1SzNfOFlacGdGeDdNOHlRUUxPZVpIMjlVaWdWV2FaS0hxSQ?oc=5",
-          "date": "2025-03-28T07:00:00Z",
-          "source": "BX1",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUN4MTJ6WGFaNW9tZ0ZqOFhHWDZUN18xcU00LVliQW1IZ1ZZc2tmQ0lYR1M4c0pqZjE5VFQzLTU1c1JCa3VEWGNTd18zX2QtbnJYYlVuTHdNMmVkN0tYSXM1RXBIRHN3VW9qWGQzRXFpVFlfOTB0OTNpTmM4MHprNkxUR25JQ2hkeWRjc3pxaFVVRTJUNWFORlhQLTBmcUt4d3hoNnh4YVlxTEZi?oc=5",
+          "date": "2025-06-27T07:00:00Z",
+          "source": "Le Soir",
           "feed": "4) Brussels Parliament"
         },
         {
@@ -6967,19 +6645,19 @@
           "feed": "4) Brussels Parliament"
         },
         {
-          "title": "Le Code bruxellois du bien-être animal de retour au Parlement - GAIA vzw",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVpSWkxnbGZpdDQ1LWdYV2VNNGp5VnlMRU9aV0RrbWtpbUs1TExIelFjSGs4YXBLN2FELWJpT1dFTWpWQ1ZCQWIxcU5zdkdzUnhMdGJVaDBQR21vSmtia2pzUXZZTVFwRHZmMEswa0RmV1lUcG1EYzRWM1VrRTE4NEpGQmsxMXBFcFJGNlNyenRhNGdfMDVxb3ZDTQ?oc=5",
-          "date": "2025-01-29T08:00:00Z",
-          "source": "GAIA vzw",
-          "feed": "4) Brussels Parliament"
-        },
-        {
           "title": "Zone basses émissions (LEZ): le Parlement bruxellois approuve le report de la prochaine phase, ce que cela signifie - RTL Info",
           "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFBUbGhmLUpXWE0xNXpHWHVnODFIa1E3N0tfWUNscUJoOW5BYWNtSUtnd0paWkh4S0lFQTkyMUgwNkNUZUM0bUNPbXpEV2Z5bTNZUDBzaXZnbVY2QVdZNlpsb3VkTk8xenJaZllISGo2SGdRZl9iNEJYVUIwanBiWjJHWWhFR2pyXzQ0VFVKc3VwcFNmNW01bUdiUzR2TlZ5SzltWDVyMEtBY3EteFdkNUxnbnNYWl91TlZPTmtyaDc3Wml1bkFzbzI0LXFMRGRJeDBncmJiX0k0dw?oc=5",
           "date": "2024-10-04T07:00:00Z",
           "source": "RTL Info",
+          "feed": "4) Brussels Parliament"
+        },
+        {
+          "title": "Code bruxellois du bien-être animal : le parlement ouvre le débat parlementaire, aucun vote attendu - Le Soir",
+          "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjBhMmVpc09NZ3BhTlU3WDQxM1k5TGZHQUNCNWFjWm1LY3luZ0ZkQ0JwbHFuZ2p5UWpjOHB2ZmpsUF9ZWGZEMmpLR2RTOU9mY3UwZzI3WUM5ZW1VYmlleFZEUHNGdHA2YXhtU2tHTjBCTXd1N3dLbFZBYXM3S09hNDhBSWpFZFpsNTdNeXgwYzl2TXpiVjItb2s2ejZvNmFNb1dSeEtYalBjS1JCWmVhcnFwNkhjbHVHNUlobGhEM2FkQk0?oc=5",
+          "date": "2024-04-24T07:00:00Z",
+          "source": "Le Soir",
           "feed": "4) Brussels Parliament"
         },
         {
@@ -6996,14 +6674,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDRKQ3NkZmJ1enB4NHBXdE83Z2F6Tk83alJCdFpoUVdEYXVoSk5xVXQ4TXA3YU1OM2NENFRBQjZLQmg1RXFNSUVxNlY2NGsydTBoeWJiS1AxNGlsU25jbFBTM1djamEycWlDTWJxalhIZ1hhQ05HYmR3aVlrbjlubWpCRl8yQUZwSnd6T1kxak55SU1VZVlsNTc2UnlObWttWW1meGY0NWw1ZU5NZ0VpQU51QWo1SnNnUk13LWgyUVZKVmM?oc=5",
           "date": "2022-06-18T07:00:00Z",
           "source": "BX1",
-          "feed": "4) Brussels Parliament"
-        },
-        {
-          "title": "Abattage rituel à Bruxelles: le Parlement bruxellois vote contre l'obligation d'étourdir - La Libre.be",
-          "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWmNPNXNicWZvS1NCLXdpRTBLNUJERjNiakJNSU9uem1fZ3MxTW9QbEJFczZpWmhRWjl2UWwtZmhKMU5XYXdMNC1Fc3dvU1E3X09ucE5EWDVwYmdtNE9icFlBOEpUNVlYUlNSZFpRZTdQRFhWSExRTzQ2Sm0xNmlCa1RNOERMbFlFa19FTGdqQ3NzQXY1dUxPenNTYkRkTTJiTDlKWFlwVWNEMTdraXF0SmdHbkgtbjF0R0FhQjVEbTVDaGxGZ0RxcW8wZl9wMDExZWppMlZ6elhVUHFadG1hMGVMa0hneXozUEhLYnNsT3NCQ05QX19XRzhHRy1JOVE5UGc?oc=5",
-          "date": "2022-06-17T07:00:00Z",
-          "source": "La Libre.be",
           "feed": "4) Brussels Parliament"
         }
       ],
@@ -7383,10 +7053,10 @@
       ],
       "Vlaams Parlement - NL extra": [
         {
-          "title": "Wat werd er beslist in de plenaire vergadering van 22 april? - Vlaams Parlement",
+          "title": "Wat werd er beslist in de plenaire vergadering van 27 mei? - Vlaams Parlement",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdG80OVVGNEJmc0drZjBFc3g2dVVrM2M2azlzX3Z2c25EcE0zbGp5V2QtLVRlRHJpdlR6aE5nOEpMRjJlejByRVFJN1dWVUxPMFFReG1adDlVQXNzUExSTFM1eDBWNEduWFY5a1d2M2l1T2wwSVZxakFDV0k5SWpUc3ljaU5UazNvSnhpX2drMW5vdElOc05QVTMxZ2tRUFphYlhlT2ViRlkwQjQ1cG5hd2hBaDl4N3Q2REtQMUNOVUMyQVBRNW5WMGd3?oc=5",
-          "date": "2026-04-23T07:00:00Z",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVhhNDdhdEZoeUNVLVd6em95WFdCWVVJRGpRbUVDOWMzeWVTdXkteUFHWExiOEdaOXNncl80eTI0Q3NpRWNCb3I0ZmhNYVNoRmRwRWNxdmpDRUN6STZfT1NWTjA2U1lnR0JVRUNyTHkyNVdubzlKUXNjOVZ1NHZ5Tk1KT05LbGtoZjhEUGxzS0IyWXpENmE5amNmaGphejlxUmRkdW1kVTVwOU03dEtibUo5NG5RX2htNXZhdFNKNi1ZMGNpOXlj?oc=5",
+          "date": "2026-05-29T10:15:59Z",
           "source": "Vlaams Parlement",
           "feed": "Vlaams Parlement - NL extra"
         },
@@ -7503,6 +7173,14 @@
           "feed": "Vlaams Parlement - NL extra"
         },
         {
+          "title": "Hoe werkt de plenaire vergadering? - Vlaams Parlement",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlM2SXV2ZFlGVFlGOFdGN3M1dkVHVmxHV3ViNndTQXJXVmZfNUkyTm1ubTRjZzJIcDVYb0FMY0FqdTJ0bXhKcHVCLS1UbFdmSlVoMXRMUnE3OF9EMHpfUXdCNUszRmUyVUZsOE9ZLVhrRUNqaExLNHlnZEVBX2JBZ2xB?oc=5",
+          "date": "2021-09-30T17:37:47Z",
+          "source": "Vlaams Parlement",
+          "feed": "Vlaams Parlement - NL extra"
+        },
+        {
           "title": "Alternatieve financiering van overheidsinvesteringen - Vlaams Parlement",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3dscmdZeGhGSG94dEk4YllLZDRjLXhoOGxEdFkwR3ZlX1ZycTdjMnJKTlRMT3NWaFpyUUk3VW14X0VzSU5BSmx3b09zeHd6WmFseEFLN1prUjJFdkNHZWxETU1LSTdnRGxYYnAyRFNIbzZZbGVtQmdqT1ZtcXJPVEVwTUdPSEl5bUdqWVFldw?oc=5",
@@ -7533,14 +7211,6 @@
           "date": "2019-11-25T08:00:00Z",
           "source": "BRUZZ",
           "feed": "Vlaams Parlement - NL extra"
-        },
-        {
-          "title": "Nee, de nieuwe eindtermen zijn geen goed idee - De Standaard",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclNwcmRhdVE0UmxhVnowN3MwQy1WMGFOZFJJU3dHVkJoZkdHbWpEaFFOOVBWdm5YUUtMTmtNdzdkZkVJclBhZDA4Q3hETnZ0c1k1RlgyTFNDQzI0a3VuSDZRbzRjWU44SlJXT01FMGJFNTgtMXd1Vi04ZDBGa0dCU3Q4bFptZl9haXloN2ZxU2o5a0d3?oc=5",
-          "date": "2017-12-15T08:00:00Z",
-          "source": "De Standaard",
-          "feed": "Vlaams Parlement - NL extra"
         }
       ],
       "Wallonie-Bruxelles Federation": [
@@ -7549,22 +7219,6 @@
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN01oSFlaVmh2WVN0X1RLRFBvaFlfc0tjZTBiWTlBblJaaVJhQUFCdXROVmdQMG91ZXVUbWgyZ0lCakxqWU5Yclp5VUhrdFlwZUJWMzM0VjBaWjBaWEJhU29maDBUTl9oWW03MGpxX2pSZVBaZU5QUWNsN2U3Q2pIakNydDd3aVJiOXlIVDh4Y3h6LVVLVzVobFBKTzUwUU9qZWhwRU5jUTcwTjFEWlB0N0lYOXRYaVpkX1hCUHN5T1g5OElTc1c0?oc=5",
           "date": "2026-05-22T07:00:00Z",
-          "source": "Le Soir",
-          "feed": "Wallonie-Bruxelles Federation"
-        },
-        {
-          "title": "La semaine qui vient sera-t-elle cruciale pour le monde de l’école ? - Le Soir",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHdhZFo1SDFkVG9zbkY5UW1YLXhMY1NJLTlfRjZBSWZUazFlWl9FR3dhM2t6MWxHeTNxMVBoOUFfRG44Zl9BSHZJcGxJcVAtS2N2VTd2emhvcWtIRkxkNGJmZDFRbEF1Q0d4RWJlLWM4bmhJVmRwc1EtVTAtMnp4R25TZTlIUWhRRExvdFhlVHVjN1Y3dk5rZnJIVW1TRzdJcHBLcXlCYzBZZjJfX0M1clo1UQ?oc=5",
-          "date": "2026-05-08T07:00:00Z",
-          "source": "Le Soir",
-          "feed": "Wallonie-Bruxelles Federation"
-        },
-        {
-          "title": "Le MR veut diminuer le nombre de députés wallons - Le Soir",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGV2LVBuUk90NnRPa2Z6Q0xJWTFtNkhudWU0S0UwRlYtbGVlcDBsMmhvV0FFRGhDTkJneWszTk91ODA2STFnZHRjYUxKcS11YWw1OXFIMEFRY0tuaEFOWEd1ZXVTSGU1TjU0enpoMFUwV0pONW9LSFF5dGt5YWdFV1lCVGpIWUwxU1d0cVZha2w4X3I0T0NNMU5wb3k?oc=5",
-          "date": "2026-04-22T07:00:00Z",
           "source": "Le Soir",
           "feed": "Wallonie-Bruxelles Federation"
         },
@@ -7585,14 +7239,6 @@
           "feed": "Wallonie-Bruxelles Federation"
         },
         {
-          "title": "FWB : la majorité MR-Engagés repousse une résolution du PTB appelant à renoncer à la hausse du minerval - Le Soir",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLS0zM1NSNGl0V3ZPMXI5MmVTREJ3RmVDTjFNQll4TUtvbjExYWZsOHRRNVRZZVNmcW5ybFkwMmdkU0F4dU5LYnlHWXdmaDdFUVBYTGVuakRoQjNjRFBlQ21VU3FReFR1LUxTazRzdkZ6X192ZElDWEVPN3RydVVqbTNNLXBzV0RReExJWjZzeGhDdHpzSFVTMm80VVdYdksxa3FjNmI2LVFOUmVxaVlPOTFnb2FQVlk5czczb0wwNE43MXps?oc=5",
-          "date": "2026-01-12T08:00:00Z",
-          "source": "Le Soir",
-          "feed": "Wallonie-Bruxelles Federation"
-        },
-        {
           "title": "Le budget 2026 de la Fédération Wallonie-Bruxelles définitivement adopté à l'issue d'une séance électrique",
           "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVlVzTjBkX25zRFExV3J1ZVhyZnp2blM3WlJCd0xud2Y1bzhYUWxDYUR0MEJQQTVLc2VPckdKWXJCUFFyb3FZRHpFY19ma1Y3aF95T2tVQ0hNS20zM1NBczVLMHE2UktYZXU1aW83Tm9KVk1QVE81ZUNuRi0zTmNvSnFpZ0dBRDNSOUxtcnRuUjJUSHNOYnFSeDFHREhVREFBdWg5X2hRWV9udC1Hb3lxR0U2VTJndDBD?oc=5",
@@ -7606,14 +7252,6 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVM3akVocHBwQVlmZ09SeHhVcm1zcTJNcl82VGJTeXJ5LVhZY3d5WmZXbFFuM1J5aWpBYmphUVAyUDBRcTRlcmFCYW1WQ2RjR09MdEFFYWluSWwwQ2tHSHRFdkI1aWdVenFmdlRSdEtvMFRkakhLeWtjVjVrelNWTVQxX2dhT2ZOTzJBV01wUlUtS0Z1MUVvREVIM0VvaUJ2OHQxdE5Oc3lPUWU1WU5USUoyX3dpNmVob3c?oc=5",
           "date": "2025-12-08T08:00:00Z",
           "source": "RTBF",
-          "feed": "Wallonie-Bruxelles Federation"
-        },
-        {
-          "title": "Le gouvernement entame l’abrogation de la “sonnette d’alarme idéologique”: qu’est-ce que ce mécanisme critiqué par la N-VA?",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQVo3X29sU1lxZm1oa2w1YmhfZ05yV1N6UUUtYnZiQllrZTVHcl8xc1hNdEg0VlVnOVNvODY4dGVKa0dXMS01NFRubEtZSHZZbTRrdW0wdkhfMThfUmxldmdlYk45OE9sV3RSQmYwblFFb08xNnBweEpDdWVXSXk5bmgwaERsMktXRzVoU29KeEN2QURiZ1ZEYlUwR2FjclVZQy0xV1dQQkUxaEJaT3VSM1RjVGc2SE00dGdGQk9wZmxUSlZFamdaOHFIaWVZVDNUWXd6LW45SDE3RHlodU5GVXp1a0dBQzNQc0FjbA?oc=5",
-          "date": "2025-12-04T08:00:00Z",
-          "source": "7sur7.be",
           "feed": "Wallonie-Bruxelles Federation"
         },
         {
@@ -7689,23 +7327,63 @@
           "feed": "Wallonie-Bruxelles Federation"
         },
         {
-          "title": "États généraux de l’immersion : une année pour dessiner l’avenir de l’enseignement en immersion - Mouvement Réformateur",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG5KbnpoVWtiSnVvRDJrbC1hUGhORHI5MEVUOGpWR0NZNmFzSVdhMWR3ZmdMY1BsRUN6VXFwV2hRcFlFZDExb0pKVHYtRERjZXN6S0U0Nll6bnczVVJEY04zWm4wZVd2OVQ4YUF4bDNjY01fSDdxZFc5M3pKSXpPUXdDVWs1YjdPX2RKMzk5VGtJcDB1S1hpX2k3WGU4bmVvZVh6Tmo2cG91SkJVYlE?oc=5",
-          "date": "2024-03-27T07:00:00Z",
-          "source": "Mouvement Réformateur",
-          "feed": "Wallonie-Bruxelles Federation"
-        },
-        {
           "title": "Le Parlement de la Fédération Wallonie-Bruxelles franchit une nouvelle étape vers la Commission de déontologie et d'éthique",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV1FpUTRVZkppTkd1VVJqVFhkQXFDRk9PQ2NPRXpQcjVqX3FRem9UY18wN2FhS1FwUEpoWU1iSmxTeUp1T1dqUFBCSGJGZlpic3FKYVR4Vnp5RERwVlNWSFVpeE9OeTdsRXY3SXp0WkVIbE50bHlFYVVfOWxBNG4xOVYzSVc4V1lSRVpXOGdZbEg3SV9VWENrT3cwdHd4RUdUczFoeVlyWDBOaWluM0hWbmZ1bmd2TkdkcDRkR2RvcU9HZVpfQjh1OG92SW82TjJlV3dxeHVkX215M0xVeVJibFoyWnZ0bkw1b1E?oc=5",
           "date": "2024-03-06T08:00:00Z",
           "source": "BX1",
           "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
+          "title": "EVRAS : des Institutions Islamiques de Belgique s'y opposent, le CAL soutient \"plus que jamais\"",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGg0TnR6N2VqeWZPSDBiNmYycS1UYnpLTmRaMXpnNTk4cXB2YU9HenZUeWFpVFBNMVpZNEVSSC1YS0M0Z19TcDk1M1h6XzBCQUJtZ21NTHkxVlpESnhpakxTUUZlMTJONC1xazVqTkJieW9PcUJCY3RfNFNYZ09yUkJ3U05hRVVnaGFlQ2EtZ2ZUMmhCQ0k4MDBHbmdHa1I3TndrYkhIVkVKLUt5ZHVmYg?oc=5",
+          "date": "2023-09-06T07:00:00Z",
+          "source": "BX1",
+          "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
+          "title": "Rythmes scolaires : la majorité PS-MR-Ecolo rejette une adaptation du calendrier avancée par les Engagés",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW5zNnNoSDZBQUVVdkVkLWpHRm12cGkyd1JqXzZiWDRVR093bFZtbDUwV2o2bUpwcmRFTVhVUW02dHpqZFdNQ21wVGZ6U1lhc3RQbWt6Q2ZYUXJFRXo4QVV6a2RNRFYtQnYwN2t3Uk9BVEo4ZXJlazJoOWE5ZTZDUDhMWTViRkpsVDZSQ1dIUjVxZkZaUmM4WVAtZVRzQXlJWG5MVmtxTXdhc0JIekQ2dWlaWHFoc0ZYUVlLVloyRzMzYkxOVDZxUVpQVHRJSVA4MTdDYmFB?oc=5",
+          "date": "2023-06-21T07:00:00Z",
+          "source": "RTBF",
+          "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
+          "title": "Le décret des élèves de Saint-Charles Dottignies plébiscité par le Parlement wallon",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2tzbWlzMHFCR3lUQzVZMjBHbE1mbDNfRl85N1l4WC1FTThkenZ2NURWZms3OXNzZnhkNjY2Rl9sQ0pOenlnX1dNYmYzdDkwVmNMLUthSE4ycHhIUkx5SE1FZzJEVnZXTlJQTVF2MTYtMF9hTlhkWWNPS0xLdXIzaGt3TGxnR3JlRmczUnN6Q3U4Ukt4eGhWSzJGWXpJQmhoTXFITWRhdEFDQVN5SDBOYnBTYjdFbWkzZkhSVnNKeHlfbjZZUS1wNQ?oc=5",
+          "date": "2022-05-20T07:00:00Z",
+          "source": "Sudinfo",
+          "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
+          "title": "Les parents du Pacte d’excellence: «C’est une réforme faite d’équilibres subtils entre les acteurs - Le Soir",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1BiVzVXWGV3dldGT1pHRUR4NUI5OXByenpJRmZZSm4tMkxWNlV6d1cyTkxQYWxraGVqRmV5QkhEaGtGS201LVpZYTlTUUZVeDdwRjFZN1VQNWFmMjN2SktzQnRHSDc4blVXYU95VlJBUFdtY0dvYVB1aHR0LXVKc2dGdmtGZmdldTVIVEpoR3lnZW5rb2l2R1NDZ3VabDd3YkoyZEtaV0I0SEhRcnhzQV9GdDgydGRrVkRTNlFSMG4?oc=5",
+          "date": "2019-02-05T08:00:00Z",
+          "source": "Le Soir",
+          "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
+          "title": "Le blues des formateurs en sciences humaines - Le Soir",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWlJVko0QTlPWHpVNU1FSXlPVmY5QWVBd21BVFJMM0dablhkaUtrY0hEOE16VThUWVlpQlR5TnJ1aXVsTk5UOE10c1pJaXA5LUlicjlmQTJGeHVkMHVwZ3NWY1JHanRqMXhrMF9hNzM0RzRnLTA4cEZOaHl0LThNQW1uaEUtbGN2andNb3lUSzRhZGZnc1JJ?oc=5",
+          "date": "2018-10-21T07:00:00Z",
+          "source": "Le Soir",
+          "feed": "Wallonie-Bruxelles Federation"
         }
       ],
       "Toplu (Tekrarsiz)": [
+        {
+          "title": "Wat werd er beslist in de plenaire vergadering van 27 mei? - Vlaams Parlement",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVhhNDdhdEZoeUNVLVd6em95WFdCWVVJRGpRbUVDOWMzeWVTdXkteUFHWExiOEdaOXNncl80eTI0Q3NpRWNCb3I0ZmhNYVNoRmRwRWNxdmpDRUN6STZfT1NWTjA2U1lnR0JVRUNyTHkyNVdubzlKUXNjOVZ1NHZ5Tk1KT05LbGtoZjhEUGxzS0IyWXpENmE5amNmaGphejlxUmRkdW1kVTVwOU03dEtibUo5NG5RX2htNXZhdFNKNi1ZMGNpOXlj?oc=5",
+          "date": "2026-05-29T10:15:59Z",
+          "source": "Vlaams Parlement",
+          "feed": "Vlaams Parlement - NL extra"
+        },
         {
           "title": "La FWB se dote d’un plan de lutte contre les violences sexistes sur les campus - Le Soir",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
@@ -7753,6 +7431,14 @@
           "date": "2026-05-22T07:00:00Z",
           "source": "RTBF",
           "feed": "3) Walloon Parliament"
+        },
+        {
+          "title": "Chaos au Parlement bruxellois autour de la mise en place d’une commission d’enquête sur le Foyer anderlechtois",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUVJkUm9mcXliRFRiUzQ2enVMOWNHV2lta0hJb0ViM1VnUmVZSW82c1E5dEhWczVRX1UxWEVuSGRzUE9pNUN1YXZXOUotT3JycWhrTlhjYlhmZHJwVWU3RmYtekJQcTVzRS1EZWsxYTJCejEzSXIxS0ZBdV91dzd2ZndTaXpqMkxvSUtoYmZPVWJDZ0NzZFpGQmtGUThDVllMc291U0RMVmYtc0hfZ1YyT2FMVG5mLVRBLUdSLVZHX1AzRGZ0ZHQ1RzRGNVNwdGF0SnFhRlU3MnpUSmdxM3o1aQ?oc=5",
+          "date": "2026-05-22T07:00:00Z",
+          "source": "RTBF",
+          "feed": "4) Brussels Parliament"
         },
         {
           "title": "Hausse du minerval : une motion déposée à Bruxelles pour freiner le décret-programme - Le Soir",
@@ -7825,14 +7511,6 @@
           "date": "2026-04-23T07:00:00Z",
           "source": "RTBF",
           "feed": "Federal Chamber - FR"
-        },
-        {
-          "title": "Le MR veut diminuer le nombre de députés wallons - Le Soir",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGV2LVBuUk90NnRPa2Z6Q0xJWTFtNkhudWU0S0UwRlYtbGVlcDBsMmhvV0FFRGhDTkJneWszTk91ODA2STFnZHRjYUxKcS11YWw1OXFIMEFRY0tuaEFOWEd1ZXVTSGU1TjU0enpoMFUwV0pONW9LSFF5dGt5YWdFV1lCVGpIWUwxU1d0cVZha2w4X3I0T0NNMU5wb3k?oc=5",
-          "date": "2026-04-22T07:00:00Z",
-          "source": "Le Soir",
-          "feed": "Wallonie-Bruxelles Federation"
         },
         {
           "title": "\"Premier arrivé, premier servi\" : Bruxelles fait voter un texte pour protéger les boîtes de nuit de nouveaux voisins procéduriers",
@@ -8107,14 +7785,6 @@
           "feed": "Federal Chamber - FR"
         },
         {
-          "title": "LEZ Bruxelles : la proposition du MR examinée selon un avis du Conseil d’État en 30 jours",
-          "summary": "Yeni bir tasari/teklif veya mevcut tasarinin ilerleyis adimi aktariliyor.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemJpallyeU5lbjY4Wi1aQ293SXRFY2JRNm9HLVYzWnBkaWY2bjlDODZpRF9DNnUxV25VZ1FxelpQb3FERm5MeF9GSnFhTHRQV2RHbXllUUpjVExBMldUeVdJR3lFWHpsS0JSQ2ZzRDd4eHlWeTdFdXUwZEs1czhyX3loTnNhU3p0cFpFRVZIVVBCR2FzU0ZzMDBuTjZPQUVhU1VHR01yNm9XcndTdE1yVA?oc=5",
-          "date": "2026-01-23T08:00:00Z",
-          "source": "BruxellesToday",
-          "feed": "4) Brussels Parliament"
-        },
-        {
           "title": "La proposition du MR de réduire les amendes en cas d’infraction à la LEZ soumise pour avis au Conseil d’Etat",
           "summary": "Yeni bir tasari/teklif veya mevcut tasarinin ilerleyis adimi aktariliyor.",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnFOQXlhYWFfbTVxMFQxUzZWemx6OERlWXVIb2hzUkdEOHB4bG9ELVQ0eTYxUFY0cTNOenFpNUoxOUtSd3loYUNSaWVMMnNXTGhuYmVaTnU2dkR1ZEg3NGZBbTdWRXg4N20zdE9jYVBfOVotempQaW50ZklMUGRucWNfbGVmSjJGVkxyU2dwMDR5QTZaa2RLdWlqSGRQZ1hQczdvU2p5QUZsMXBLYUt0TEgxR0twYVZiYWZfb3JOLTRwemVSX2dsYmZyVmJMWHJkNmxQdkMwd1gwdExaRHc?oc=5",
@@ -8129,14 +7799,6 @@
           "date": "2026-01-21T08:00:00Z",
           "source": "BX1",
           "feed": "4) Brussels Parliament"
-        },
-        {
-          "title": "FWB : la majorité MR-Engagés repousse une résolution du PTB appelant à renoncer à la hausse du minerval - Le Soir",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLS0zM1NSNGl0V3ZPMXI5MmVTREJ3RmVDTjFNQll4TUtvbjExYWZsOHRRNVRZZVNmcW5ybFkwMmdkU0F4dU5LYnlHWXdmaDdFUVBYTGVuakRoQjNjRFBlQ21VU3FReFR1LUxTazRzdkZ6X192ZElDWEVPN3RydVVqbTNNLXBzV0RReExJWjZzeGhDdHpzSFVTMm80VVdYdksxa3FjNmI2LVFOUmVxaVlPOTFnb2FQVlk5czczb0wwNE43MXps?oc=5",
-          "date": "2026-01-12T08:00:00Z",
-          "source": "Le Soir",
-          "feed": "Wallonie-Bruxelles Federation"
         },
         {
           "title": "California’s proposed Billionaire Tax Act ballot initiative",
@@ -8160,14 +7822,6 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUwtbmllTDJveFlwclhBSkREWi04UFNERnU3M0w3bE9QdU9pVndQMWl1VHpIcE5FdnNNN2lRekFvUjlQNDI1ZEJueks4UXN0NlN2SmF3d2V1b3ZGTnhqX2lpblVrX2x0dEpKemY2bkZqQkh5X0hTUXJNQVJHSnFlTk9OZGFwTGwyMTc4NzRnLVI5Y0Fqbm1WblF2QWVSOHFPUVRmZEJUYjdtR1pYbWdDYkg2MA?oc=5",
           "date": "2025-12-20T08:00:00Z",
           "source": "wallonie.be",
-          "feed": "3) Walloon Parliament"
-        },
-        {
-          "title": "Le Parlement wallon approuve la réforme des Pensions des députés",
-          "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXhvOVhiOTAwSDdPUVVmOUdhUjVoRl83cHp4enFvR2xPN3FVUkY0VFlUanZnUEFzaFhBY1p4TlJsOEVSNlc0MnJYV0NxMktweHNLVFZYbHJNMk1KYlV4SE9iTEI0MldHcVFxNFFYMFNqZUE0Yi0zX096LXNfYlFTU3p5M1RmLWhXZ25YLWM2V2ZHZVVLa2U5dkNXNzgyRngyZ1B6cVpsMA?oc=5",
-          "date": "2025-12-19T08:00:00Z",
-          "source": "7sur7.be",
           "feed": "3) Walloon Parliament"
         },
         {
@@ -8211,6 +7865,14 @@
           "feed": "4) Brussels Parliament"
         },
         {
+          "title": "Réduction d’impôt, montant, frais complémentaires : d’importants changements sur les titres-services en vue à Bruxelles - RTL Info",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMjJyMUZYZ1JxaGVMMXlLUnFFWTVubU9UVmlXb2l6R1lJUk4tYUdTa3QtdUJSRkJNNDhPMEJ2VGwycnlBT1VIdi1WQjNKWGxzdXdYTHZnUXVkLUhJSmJxS2hfTmlZcDV4RWJpVU84b19iZjV6T0J2VXMyMFdTOVdtLXdrNzdlNmNUQnlreGtSOXo2MjVweE9aTTVTZTMyUG9zcEtiWUpibTBBbUlSZTVDa3gxbUNVZ2k4V3lVRXFodko1QVZZeGFycHZTU1VLQUVETHFQVHF1NDE2c0RseDhTWA?oc=5",
+          "date": "2025-12-13T08:00:00Z",
+          "source": "RTL Info",
+          "feed": "4) Brussels Parliament"
+        },
+        {
           "title": "Dernière séance plénière au Parlement bruxellois : voici ce qui a été voté",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnBBeVhldk0yRzZIQVowYXZKeHNsaUpvcmlpWjFrNk9qVmNoTHdmQUJaS2VaVXJxXzYxSkxTVEJkM0FkZHVXbUx0WWJwMHJTa1JSejVmZnp5c0VsS1MxSXoyaHNpYmh2UG5ybmNnSENoMnA0YXhUR0dvcnRsb0lTYm9kNHdveGk1aDRJZGg2bkF3YlUzMktfMnp3RXdjNzFGTG4zbDZVSQ?oc=5",
@@ -8251,18 +7913,10 @@
           "feed": "5) French Community Parliament"
         },
         {
-          "title": "Le gouvernement entame l’abrogation de la “sonnette d’alarme idéologique”: qu’est-ce que ce mécanisme critiqué par la N-VA?",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQVo3X29sU1lxZm1oa2w1YmhfZ05yV1N6UUUtYnZiQllrZTVHcl8xc1hNdEg0VlVnOVNvODY4dGVKa0dXMS01NFRubEtZSHZZbTRrdW0wdkhfMThfUmxldmdlYk45OE9sV3RSQmYwblFFb08xNnBweEpDdWVXSXk5bmgwaERsMktXRzVoU29KeEN2QURiZ1ZEYlUwR2FjclVZQy0xV1dQQkUxaEJaT3VSM1RjVGc2SE00dGdGQk9wZmxUSlZFamdaOHFIaWVZVDNUWXd6LW45SDE3RHlodU5GVXp1a0dBQzNQc0FjbA?oc=5",
-          "date": "2025-12-04T08:00:00Z",
-          "source": "7sur7.be",
-          "feed": "Wallonie-Bruxelles Federation"
-        },
-        {
           "title": "Les aides-ménagères bruxelloises obtiennent enfin une augmentation salariale",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDBJeVJadVEyb1liT2N4R2o5aUluSTdFbzd5WS1OVVFLdzd0cjNlQTF4c2lHX0pTT0lLY1lPZ0pGS0cxLUQ4Q1NVUDFjNDZfQk1kMHJ5WTI4SmN6dE1ua2E5ZHhoRDB0QjJKSVFoSXFtN0JrT3FGbk9hQ3M4SERJRjdvVkltZw?oc=5",
-          "date": "2025-12-03T08:00:00Z",
+          "date": "2025-12-03T16:33:52Z",
           "source": "BruxellesToday",
           "feed": "4) Brussels Parliament"
         },
@@ -8339,14 +7993,6 @@
           "feed": "Vlaams Parlement - NL extra"
         },
         {
-          "title": "Promotion et mise en conformité du cadre et statut du personnel : deux nouveaux projets de décret pour la fonction publique locale - Union des Villes et Communes de Wallonie",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ESk0zaTVvZGJNd0NpTm9kSGY2OHk1WENWcU85WjVjelpOSnFyQ2NvU2kzQXltb01fOUUzazJ1aVptaDViYWhiNjVhdW1uU3pmZ2hyczMzQQ?oc=5",
-          "date": "2025-10-13T07:00:00Z",
-          "source": "Union des Villes et Communes de Wallonie",
-          "feed": "3) Walloon Parliament"
-        },
-        {
           "title": "Le parlement de la FWB révise la procédure d'inscription en 1ère secondaire en supprimant un critère de sélection relatif à l'école d'origine",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV1VlLW83YUdsWnpuQ2Z4a21LOElwSzY1VWNKaUFrdGgxNjJSZWR2a1NtYkpOWjZWeC16TjlZdUJod05DQ01GUzc5b0hRUlF2emJZN19qOVB6TUpmNERLMl8wMEdLLVI1ZU1aMTFPUndSOXJBUnFvR25WcVNFSG0xVkVUdlV5RnBWYUpfc1U1d05OaDNiVS11dnlZY2Zsb1VHYmphdGtnQzIteDFma1NHaGhoa1RDa1NtQlFJUUJXN1JfMWJVYnA4aWFDbjlxNTI3dDRRdWVsek5SRnJmYk5mSG5scEVHNFVKZ3c5MmlDVkdzVk11R3huc1F1cWgxekg5RHdNM1VzOTEtdw?oc=5",
@@ -8369,6 +8015,22 @@
           "date": "2025-09-15T07:00:00Z",
           "source": "Le Soir",
           "feed": "5) French Community Parliament"
+        },
+        {
+          "title": "Les véhicules diesel Euro 5 et essence Euro 2 interdits dès 2025 dans la zone de basse émissions bruxelloise suite à l'arrêt de la Cour constitutionnelle",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGFOQ01mY3pNRmdNOTlMOVdSalRjLUhld2lhVGluVy1uZGN6bURMb1k2OXVOc2RaVllBU2dkaWVyVDFLbU5ycExvQ2dTZ0xjcUlJQjlSZFZUQnNYeFF0ZjhJalprLUphTVg2eFZXQ09LMnNGNTYzSXZEcnk4ZU5ZY25wOFJxWGNLYkZYcTVRanFydFE1bU1rXzBFYm1ReFpDaVlqVHNKeXdScTZnUGdKTVRUdVJvUm5kMmZJLQ?oc=5",
+          "date": "2025-09-12T07:00:00Z",
+          "source": "RTBF",
+          "feed": "4) Brussels Parliament"
+        },
+        {
+          "title": "Gazage des poussins mâles : le décret tué dans l'œuf, mais l'intention est là...",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVUx4YzdmMGRYaGhaM2RYODlEMFgxVVY4NWlKWjRiLVBycGFNbkdjajJHenR2YlVGSTloczFEWk9ZVG1nVnF0WDRRcDFvaC1vbWw4NldVVTVvZ2ljc0hybDdLcHpWaG9na1hRMkdtQ1puakJrMVBtX1hrMjdhQ2VCRjNrRkZkak1rRkZpVmU2VDUtQ2JxQXZBa2kzdEZCT2IzX1RaV0dzNFRTS0t2d1l5ZThjMGp3UmticmJzRmpyOXZwcUYwbjdEUUl3cXp0SDF1bnYyMVR3NWJXZGpPcFA3a3R3dG43M2ZKNzJiMzdRT0k2UQ?oc=5",
+          "date": "2025-09-03T07:00:00Z",
+          "source": "L'Avenir",
+          "feed": "3) Walloon Parliament"
         },
         {
           "title": "Le PS exige un plan de sauvetage pour sauver plus de 10 écoles maternelles menacées",
@@ -8411,12 +8073,20 @@
           "feed": "1) Federal Chamber"
         },
         {
-          "title": "Logements étudiants : ce qui changera en 2026 à Bruxelles - Le Soir",
+          "title": "Allocations familiales : du changement à Bruxelles dès septembre - Le Soir",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnRkNzk0TUQ4VTFMTXlaYWNXXzhsZ1lFTV9lc0pZYlVYQlpHeFBsUHRqUkFqYnYyQ1VwS3hTcWxCeFpKeEp4ZlNnclZpQkUwZmRraGhkcHlhT1oxLVBvMmcyYjhEODNvYnZGOW1sRHZhQld5Qkd2cGZwbGNLOGtlOGhoQ0pJQVd6VnBENVhQci1UQ3YwSDVoLWs1bkdSRmdYLWpV?oc=5",
-          "date": "2025-06-24T07:00:00Z",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUN4MTJ6WGFaNW9tZ0ZqOFhHWDZUN18xcU00LVliQW1IZ1ZZc2tmQ0lYR1M4c0pqZjE5VFQzLTU1c1JCa3VEWGNTd18zX2QtbnJYYlVuTHdNMmVkN0tYSXM1RXBIRHN3VW9qWGQzRXFpVFlfOTB0OTNpTmM4MHprNkxUR25JQ2hkeWRjc3pxaFVVRTJUNWFORlhQLTBmcUt4d3hoNnh4YVlxTEZi?oc=5",
+          "date": "2025-06-27T07:00:00Z",
           "source": "Le Soir",
           "feed": "4) Brussels Parliament"
+        },
+        {
+          "title": "Réforme de la fiscalité automobile",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vYnVDTm8zcEdrampBejc2V3F6WEV0RzFrT0paR2pPNEphaHdBbC14b2VjN2p5d3JUNW03N2JfYS1EYzJhd3M3cFY1UFJmTXltc1hUTzdwQUVNRVZ2c05jVndGSVQzLU92ZGsyclc4ZEJNUDRqeHhfLU1mUkU?oc=5",
+          "date": "2025-06-17T07:00:00Z",
+          "source": "wallonie.be",
+          "feed": "3) Walloon Parliament"
         },
         {
           "title": "House passes tax bill that addresses TCJA provisions and business tax relief",
@@ -8425,14 +8095,6 @@
           "date": "2025-05-12T12:09:04Z",
           "source": "RSM",
           "feed": "1) Federal Chamber"
-        },
-        {
-          "title": "Crise du logement à Bruxelles : l'ordonnance qui lutte contre les loyers abusifs votée en commission",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQzhhV0F5eGpNVXBMTE9XQkVrVFJQNHFWd3RyZ3ByYnE2eEJqTDB4V29MNWw1N211OE5FazZ5RVlJSjlBUm9OS0hSelJZT1c2Tm5SSEpjWV9mUEZoaTBJaGxCQldDTEtwNlpIOVIwaXpmdXdEdzZyYTQ1b1gxYXoweHF3aTJ2TV84QjA1R19fSlFaeWJDc2c3ZVV2MFlQYjNBOFU0N1E1SzNfOFlacGdGeDdNOHlRUUxPZVpIMjlVaWdWV2FaS0hxSQ?oc=5",
-          "date": "2025-03-28T07:00:00Z",
-          "source": "BX1",
-          "feed": "4) Brussels Parliament"
         },
         {
           "title": "New Hampshire House tables legalized assisted suicide bill - New Hampshire Bulletin",
@@ -8465,14 +8127,6 @@
           "date": "2025-02-01T08:00:00Z",
           "source": "RTBF",
           "feed": "Federal Chamber - FR"
-        },
-        {
-          "title": "Le Code bruxellois du bien-être animal de retour au Parlement - GAIA vzw",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVpSWkxnbGZpdDQ1LWdYV2VNNGp5VnlMRU9aV0RrbWtpbUs1TExIelFjSGs4YXBLN2FELWJpT1dFTWpWQ1ZCQWIxcU5zdkdzUnhMdGJVaDBQR21vSmtia2pzUXZZTVFwRHZmMEswa0RmV1lUcG1EYzRWM1VrRTE4NEpGQmsxMXBFcFJGNlNyenRhNGdfMDVxb3ZDTQ?oc=5",
-          "date": "2025-01-29T08:00:00Z",
-          "source": "GAIA vzw",
-          "feed": "4) Brussels Parliament"
         },
         {
           "title": "Le ton monte au Parlement wallon : « C’est travailler dans des conditions indignes » - Le Soir",
@@ -8531,6 +8185,14 @@
           "feed": "Wallonie-Bruxelles Federation"
         },
         {
+          "title": "Code bruxellois du bien-être animal : le parlement ouvre le débat parlementaire, aucun vote attendu - Le Soir",
+          "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjBhMmVpc09NZ3BhTlU3WDQxM1k5TGZHQUNCNWFjWm1LY3luZ0ZkQ0JwbHFuZ2p5UWpjOHB2ZmpsUF9ZWGZEMmpLR2RTOU9mY3UwZzI3WUM5ZW1VYmlleFZEUHNGdHA2YXhtU2tHTjBCTXd1N3dLbFZBYXM3S09hNDhBSWpFZFpsNTdNeXgwYzl2TXpiVjItb2s2ejZvNmFNb1dSeEtYalBjS1JCWmVhcnFwNkhjbHVHNUlobGhEM2FkQk0?oc=5",
+          "date": "2024-04-24T07:00:00Z",
+          "source": "Le Soir",
+          "feed": "4) Brussels Parliament"
+        },
+        {
           "title": "Tout savoir sur le décret Paysage en six questions",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenp0TTNBUEFaeWVQSUdQN0RIbnZCVTA1aUZxVFhMYTlyVDFDRzRsWEgwSVBLb1lCamt2eTAwX3lUSXRhWmpKR3N1OUQzOGJ6NWdrUW5fX095NDhvR2tQSG1vUUZpWHU0eUJ2dzRNWGFERHhUS1JFVnJXaHlkdjBCOFR0TmZWWlVRak5YWUZRcXBheVJVc2ZmUkVDWThBZVpSRnhEdkp5YnRwTXlZTGc?oc=5",
@@ -8585,14 +8247,6 @@
           "date": "2024-03-27T07:00:00Z",
           "source": "Amnesty International",
           "feed": "Federal Chamber - FR"
-        },
-        {
-          "title": "États généraux de l’immersion : une année pour dessiner l’avenir de l’enseignement en immersion - Mouvement Réformateur",
-          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG5KbnpoVWtiSnVvRDJrbC1hUGhORHI5MEVUOGpWR0NZNmFzSVdhMWR3ZmdMY1BsRUN6VXFwV2hRcFlFZDExb0pKVHYtRERjZXN6S0U0Nll6bnczVVJEY04zWm4wZVd2OVQ4YUF4bDNjY01fSDdxZFc5M3pKSXpPUXdDVWs1YjdPX2RKMzk5VGtJcDB1S1hpX2k3WGU4bmVvZVh6Tmo2cG91SkJVYlE?oc=5",
-          "date": "2024-03-27T07:00:00Z",
-          "source": "Mouvement Réformateur",
-          "feed": "Wallonie-Bruxelles Federation"
         },
         {
           "title": "Le Parlement de la Fédération Wallonie-Bruxelles franchit une nouvelle étape vers la Commission de déontologie et d'éthique",
@@ -8651,6 +8305,14 @@
           "feed": "2) Flemish Parliament"
         },
         {
+          "title": "EVRAS : des Institutions Islamiques de Belgique s'y opposent, le CAL soutient \"plus que jamais\"",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGg0TnR6N2VqeWZPSDBiNmYycS1UYnpLTmRaMXpnNTk4cXB2YU9HenZUeWFpVFBNMVpZNEVSSC1YS0M0Z19TcDk1M1h6XzBCQUJtZ21NTHkxVlpESnhpakxTUUZlMTJONC1xazVqTkJieW9PcUJCY3RfNFNYZ09yUkJ3U05hRVVnaGFlQ2EtZ2ZUMmhCQ0k4MDBHbmdHa1I3TndrYkhIVkVKLUt5ZHVmYg?oc=5",
+          "date": "2023-09-06T07:00:00Z",
+          "source": "BX1",
+          "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
           "title": "Nos politiques ont-ils trop de vacances?",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEtNMXQ2dVdVMTEwalM3QjNKYUFRVk9qNjZsWGNCR2g5RjVMaGNJZDNGVlVwMWkxN1otVERwMEh2V3N5SnVwUjZGVFlYa0IxYUxnUHE3c1JpVTVSa0hiZk9KWmxJT0hOc3FkWmdBZy0zSFhBS05DakpaN3h2MWFPbFByQWJiQzVrU0FKSWFaUUJ2R0VTVXMzZDZ4R0lwRzR2VTNVWXJIY2UtbkMzUGlYWU5McW45NUdOR284bDVYYXJ3NzRj?oc=5",
@@ -8697,6 +8359,14 @@
           "date": "2023-06-27T07:00:00Z",
           "source": "GrenzEcho",
           "feed": "6) German-speaking Community"
+        },
+        {
+          "title": "Rythmes scolaires : la majorité PS-MR-Ecolo rejette une adaptation du calendrier avancée par les Engagés",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW5zNnNoSDZBQUVVdkVkLWpHRm12cGkyd1JqXzZiWDRVR093bFZtbDUwV2o2bUpwcmRFTVhVUW02dHpqZFdNQ21wVGZ6U1lhc3RQbWt6Q2ZYUXJFRXo4QVV6a2RNRFYtQnYwN2t3Uk9BVEo4ZXJlazJoOWE5ZTZDUDhMWTViRkpsVDZSQ1dIUjVxZkZaUmM4WVAtZVRzQXlJWG5MVmtxTXdhc0JIekQ2dWlaWHFoc0ZYUVlLVloyRzMzYkxOVDZxUVpQVHRJSVA4MTdDYmFB?oc=5",
+          "date": "2023-06-21T07:00:00Z",
+          "source": "RTBF",
+          "feed": "Wallonie-Bruxelles Federation"
         },
         {
           "title": "“Nieuwe pachtwet nefast voor toekomst landbouw” - VILT vzw",
@@ -8763,12 +8433,12 @@
           "feed": "4) Brussels Parliament"
         },
         {
-          "title": "Abattage rituel à Bruxelles: le Parlement bruxellois vote contre l'obligation d'étourdir - La Libre.be",
-          "summary": "Karar tasarisi oylama/nihai karar asamasina iliskin bir gelisme bildiriliyor.",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWmNPNXNicWZvS1NCLXdpRTBLNUJERjNiakJNSU9uem1fZ3MxTW9QbEJFczZpWmhRWjl2UWwtZmhKMU5XYXdMNC1Fc3dvU1E3X09ucE5EWDVwYmdtNE9icFlBOEpUNVlYUlNSZFpRZTdQRFhWSExRTzQ2Sm0xNmlCa1RNOERMbFlFa19FTGdqQ3NzQXY1dUxPenNTYkRkTTJiTDlKWFlwVWNEMTdraXF0SmdHbkgtbjF0R0FhQjVEbTVDaGxGZ0RxcW8wZl9wMDExZWppMlZ6elhVUHFadG1hMGVMa0hneXozUEhLYnNsT3NCQ05QX19XRzhHRy1JOVE5UGc?oc=5",
-          "date": "2022-06-17T07:00:00Z",
-          "source": "La Libre.be",
-          "feed": "4) Brussels Parliament"
+          "title": "Le décret des élèves de Saint-Charles Dottignies plébiscité par le Parlement wallon",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2tzbWlzMHFCR3lUQzVZMjBHbE1mbDNfRl85N1l4WC1FTThkenZ2NURWZms3OXNzZnhkNjY2Rl9sQ0pOenlnX1dNYmYzdDkwVmNMLUthSE4ycHhIUkx5SE1FZzJEVnZXTlJQTVF2MTYtMF9hTlhkWWNPS0xLdXIzaGt3TGxnR3JlRmczUnN6Q3U4Ukt4eGhWSzJGWXpJQmhoTXFITWRhdEFDQVN5SDBOYnBTYjdFbWkzZkhSVnNKeHlfbjZZUS1wNQ?oc=5",
+          "date": "2022-05-20T07:00:00Z",
+          "source": "Sudinfo",
+          "feed": "Wallonie-Bruxelles Federation"
         },
         {
           "title": "De vorming van woonmaatschappijen - Vlaams Parlement",
@@ -8843,6 +8513,14 @@
           "feed": "2) Flemish Parliament"
         },
         {
+          "title": "Hoe werkt de plenaire vergadering? - Vlaams Parlement",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlM2SXV2ZFlGVFlGOFdGN3M1dkVHVmxHV3ViNndTQXJXVmZfNUkyTm1ubTRjZzJIcDVYb0FMY0FqdTJ0bXhKcHVCLS1UbFdmSlVoMXRMUnE3OF9EMHpfUXdCNUszRmUyVUZsOE9ZLVhrRUNqaExLNHlnZEVBX2JBZ2xB?oc=5",
+          "date": "2021-09-30T17:37:47Z",
+          "source": "Vlaams Parlement",
+          "feed": "Vlaams Parlement - NL extra"
+        },
+        {
           "title": "Alternatieve financiering van overheidsinvesteringen - Vlaams Parlement",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3dscmdZeGhGSG94dEk4YllLZDRjLXhoOGxEdFkwR3ZlX1ZycTdjMnJKTlRMT3NWaFpyUUk3VW14X0VzSU5BSmx3b09zeHd6WmFseEFLN1prUjJFdkNHZWxETU1LSTdnRGxYYnAyRFNIbzZZbGVtQmdqT1ZtcXJPVEVwTUdPSEl5bUdqWVFldw?oc=5",
@@ -8891,12 +8569,20 @@
           "feed": "6) German-speaking Community"
         },
         {
-          "title": "Nee, de nieuwe eindtermen zijn geen goed idee - De Standaard",
+          "title": "Les parents du Pacte d’excellence: «C’est une réforme faite d’équilibres subtils entre les acteurs - Le Soir",
           "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclNwcmRhdVE0UmxhVnowN3MwQy1WMGFOZFJJU3dHVkJoZkdHbWpEaFFOOVBWdm5YUUtMTmtNdzdkZkVJclBhZDA4Q3hETnZ0c1k1RlgyTFNDQzI0a3VuSDZRbzRjWU44SlJXT01FMGJFNTgtMXd1Vi04ZDBGa0dCU3Q4bFptZl9haXloN2ZxU2o5a0d3?oc=5",
-          "date": "2017-12-15T08:00:00Z",
-          "source": "De Standaard",
-          "feed": "Vlaams Parlement - NL extra"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1BiVzVXWGV3dldGT1pHRUR4NUI5OXByenpJRmZZSm4tMkxWNlV6d1cyTkxQYWxraGVqRmV5QkhEaGtGS201LVpZYTlTUUZVeDdwRjFZN1VQNWFmMjN2SktzQnRHSDc4blVXYU95VlJBUFdtY0dvYVB1aHR0LXVKc2dGdmtGZmdldTVIVEpoR3lnZW5rb2l2R1NDZ3VabDd3YkoyZEtaV0I0SEhRcnhzQV9GdDgydGRrVkRTNlFSMG4?oc=5",
+          "date": "2019-02-05T08:00:00Z",
+          "source": "Le Soir",
+          "feed": "Wallonie-Bruxelles Federation"
+        },
+        {
+          "title": "Le blues des formateurs en sciences humaines - Le Soir",
+          "summary": "Parlamento gundeminde bir tasari, karar veya komisyon surecine dair gelisme.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWlJVko0QTlPWHpVNU1FSXlPVmY5QWVBd21BVFJMM0dablhkaUtrY0hEOE16VThUWVlpQlR5TnJ1aXVsTk5UOE10c1pJaXA5LUlicjlmQTJGeHVkMHVwZ3NWY1JHanRqMXhrMF9hNzM0RzRnLTA4cEZOaHl0LThNQW1uaEUtbGN2andNb3lUSzRhZGZnc1JJ?oc=5",
+          "date": "2018-10-21T07:00:00Z",
+          "source": "Le Soir",
+          "feed": "Wallonie-Bruxelles Federation"
         },
         {
           "title": "Behrendt zu offensiver Nutzung der dekretalen Befugnis - BRF Nachrichten",
