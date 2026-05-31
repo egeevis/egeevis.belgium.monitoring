@@ -45,6 +45,7 @@ for cat, feeds in FEEDS.items():
                     "source":  entry.get("source", {}).get("title", "") if hasattr(entry.get("source", {}), "get") else "",
                 })
             if items:
+                items.sort(key=lambda x: x.get("date",""), reverse=True)
                 result[cat][feed["name"]] = items
                 print(f"✓ {feed['name']}: {len(items)} haber")
             else:

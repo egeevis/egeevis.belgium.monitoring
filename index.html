@@ -79,6 +79,14 @@
   }
   .panel-title { font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 6px; }
   .panel-meta { font-size: 11px; color: var(--text3); }
+  .sort-btns { display: flex; gap: 4px; margin-left: auto; }
+  .sort-btn {
+    font-size: 11px; padding: 3px 9px; border-radius: var(--radius-sm);
+    border: 0.5px solid var(--border); background: var(--bg2);
+    color: var(--text2); cursor: pointer; display: flex; align-items: center; gap: 3px;
+  }
+  .sort-btn:hover { background: var(--bg3); }
+  .sort-btn.on { background: var(--info-bg); color: var(--info-text); border-color: transparent; font-weight: 600; }
   .count-pill {
     background: var(--info-bg); color: var(--info-text);
     font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 20px;
@@ -156,7 +164,13 @@
   <div class="panel">
     <div class="panel-header">
       <span class="panel-title" id="panel-title"><i class="ti ti-news"></i> Haberler</span>
-      <span class="panel-meta" id="panel-meta">Bir kategori seçin</span>
+      <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+        <span class="panel-meta" id="panel-meta">Bir kategori seçin</span>
+        <div class="sort-btns">
+          <button class="sort-btn on" id="sort-date" onclick="setSort('date')"><i class="ti ti-calendar-down" style="font-size:12px"></i> Tarihe göre</button>
+          <button class="sort-btn" id="sort-src" onclick="setSort('source')"><i class="ti ti-rss" style="font-size:12px"></i> Kaynağa göre</button>
+        </div>
+      </div>
     </div>
     <div class="panel-body" id="panel-body">
       <div class="state">
@@ -182,6 +196,7 @@ const CAT_META = {
 
 let DB = null;
 let current = null;
+let sortMode = "date";
 
 function fmtDate(str) {
   if (!str) return "";
@@ -228,6 +243,23 @@ async function init() {
   }
 }
 
+function setSort(mode) {
+  sortMode = mode;
+  document.getElementById("sort-date").classList.toggle("on", mode === "date");
+  document.getElementById("sort-src").classList.toggle("on", mode === "source");
+  if (current) show(current);
+}
+
+function allItemsSorted(catData) {
+  // flatten all items with source label, sort by date desc
+  let items = [];
+  for (const [srcName, arr] of Object.entries(catData)) {
+    for (const item of arr) items.push({...item, _src: srcName});
+  }
+  items.sort((a, b) => new Date(b.date||0) - new Date(a.date||0));
+  return items;
+}
+
 function show(cat) {
   if (!DB) return;
   current = cat;
@@ -249,13 +281,13 @@ function show(cat) {
   }
 
   let html = "";
-  for (const [srcName, items] of Object.entries(catData)) {
-    if (!items || items.length === 0) continue;
-    html += `<div class="src-name"><i class="ti ti-rss" style="font-size:11px"></i>${srcName}<span class="src-cnt">${items.length}</span></div>`;
-    for (const item of items) {
+  if (sortMode === "date") {
+    // Tüm haberler tarihe göre karışık, kaynak etiketi eklenerek
+    const flat = allItemsSorted(catData);
+    for (const item of flat) {
       const title = (item.title||"Başlıksız").replace(/</g,"&lt;").replace(/>/g,"&gt;");
       const date  = fmtDate(item.date);
-      const src   = (item.source||"").replace(/</g,"&lt;");
+      const src   = (item.source||item._src||"").replace(/</g,"&lt;");
       html += `<div class="item">
         <a href="${item.link||'#'}" target="_blank" rel="noopener noreferrer">${title}</a>
         <div class="item-meta">
@@ -263,6 +295,24 @@ function show(cat) {
           ${src  ? `<span class="item-source">${src}</span>` : ""}
         </div>
       </div>`;
+    }
+  } else {
+    // Kaynağa göre gruplu
+    for (const [srcName, items] of Object.entries(catData)) {
+      if (!items || items.length === 0) continue;
+      html += `<div class="src-name"><i class="ti ti-rss" style="font-size:11px"></i>${srcName}<span class="src-cnt">${items.length}</span></div>`;
+      for (const item of items) {
+        const title = (item.title||"Başlıksız").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+        const date  = fmtDate(item.date);
+        const src   = (item.source||"").replace(/</g,"&lt;");
+        html += `<div class="item">
+          <a href="${item.link||'#'}" target="_blank" rel="noopener noreferrer">${title}</a>
+          <div class="item-meta">
+            ${date ? `<span class="item-date"><i class="ti ti-calendar" style="font-size:10px"></i>${date}</span>` : ""}
+            ${src  ? `<span class="item-source">${src}</span>` : ""}
+          </div>
+        </div>`;
+      }
     }
   }
   document.getElementById("panel-body").innerHTML = html;
