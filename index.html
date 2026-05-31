@@ -1,0 +1,349 @@
+﻿<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Belçika İzleme Paneli</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.19.0/dist/tabler-icons.min.css" />
+  <style>
+    :root {
+      --bg: #0b1220;
+      --card: #111a2b;
+      --ink: #d9d9d9;
+      --muted: #d1d1d1;
+      --line: #22324a;
+      --brand: #4dc3ff;
+      --brand-soft: #11324a;
+      --good: #6de5a8;
+      --good-soft: #17352a;
+      --r: 12px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: radial-gradient(circle at top right, #172742 0, #0b1220 45%);
+      color: var(--ink);
+      font-family: "Segoe UI", "Noto Sans", sans-serif;
+      padding: 20px 14px 40px;
+    }
+    .wrap { max-width: 980px; margin: 0 auto; }
+    .head, .panel, .cat {
+      border: 1px solid var(--line);
+      background: var(--card);
+      border-radius: var(--r);
+    }
+    .head {
+      padding: 16px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+    .flag { font-size: 30px; }
+    .head h1 { margin: 0; font-size: 20px; }
+    .head p { margin: 3px 0 0; color: var(--muted); font-size: 12px; }
+    .updated { margin-left: auto; font-size: 12px; color: var(--muted); }
+
+    .cats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 14px; }
+    @media (max-width: 720px) { .cats { grid-template-columns: 1fr; } }
+    .cat {
+      text-align: left;
+      padding: 13px;
+      cursor: pointer;
+      transition: 120ms ease;
+      position: relative;
+    }
+    .cat:hover { border-color: #315176; background: #15233a; transform: translateY(-1px); }
+    .cat.active { border: 2px solid var(--brand); }
+    .cat i { color: var(--brand); font-size: 20px; }
+    .cat h3 { margin: 8px 0 2px; font-size: 14px; }
+    .cat h3 { color: #ffffff; }
+    .cat p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.4; }
+    .badge {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      background: var(--brand-soft);
+      color: var(--brand);
+      font-size: 10px;
+      font-weight: 700;
+      border-radius: 999px;
+      padding: 2px 8px;
+    }
+
+    .panel-head {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .panel-title { font-weight: 700; }
+    .panel-meta { color: var(--muted); font-size: 12px; }
+    .sorts { margin-left: auto; display: flex; gap: 6px; }
+    .sorts button {
+      border: 1px solid var(--line);
+      background: #132237;
+      color: var(--muted);
+      padding: 4px 8px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .sorts button.on { background: var(--brand-soft); color: var(--brand); border-color: transparent; font-weight: 700; }
+    .body { padding: 14px; min-height: 160px; }
+    .load-wrap { margin-top: 14px; display: flex; justify-content: center; }
+    .load-btn {
+      border: 1px solid #315176;
+      background: #15233a;
+      color: #e8e8e8;
+      padding: 8px 14px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .load-btn:hover { border-color: #4f7caf; color: #ffffff; }
+
+    .src { margin-top: 14px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+    .item { border-top: 1px solid #1c2a40; padding: 10px 0; }
+    .item:first-of-type { border-top: 0; }
+    .item a { color: #dfdfdf; font-weight: 600; text-decoration: none; line-height: 1.35; }
+    .item a:hover { color: var(--brand); text-decoration: underline; }
+    .meta { margin-top: 5px; display: flex; flex-wrap: wrap; gap: 6px; }
+    .pill { font-size: 11px; color: var(--muted); background: #16253b; border-radius: 6px; padding: 2px 7px; }
+    .summary {
+      margin-top: 6px;
+      font-size: 12px;
+      line-height: 1.45;
+      color: #d4d4d4;
+      background: #122136;
+      border-left: 3px solid #2f567f;
+      padding: 6px 8px;
+      border-radius: 0 8px 8px 0;
+    }
+    .warn {
+      color: var(--good);
+      background: var(--good-soft);
+      border: 1px solid #2f6b51;
+      border-radius: 8px;
+      padding: 6px 8px;
+      font-size: 12px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="head">
+      <div class="flag">🇧🇪</div>
+      <div>
+        <h1>Belçika İzleme Paneli</h1>
+        <p>30 dakikada bir otomatik güncellenen haber, açıklama ve parlamento karar tasarısı akışı</p>
+      </div>
+      <div class="updated" id="updated">Yükleniyor...</div>
+    </div>
+
+    <div class="cats">
+      <button class="cat" id="btn-nuclear" onclick="showCat('nuclear')">
+        <span class="badge" id="cnt-nuclear">0</span>
+        <i class="ti ti-atom"></i>
+        <h3>Nükleer Santraller</h3>
+        <p>Doel, Tihange, FANC ve enerji politikası gelişmeleri</p>
+      </button>
+      <button class="cat" id="btn-airspace" onclick="showCat('airspace')">
+        <span class="badge" id="cnt-airspace">0</span>
+        <i class="ti ti-plane"></i>
+        <h3>Hava Sahası</h3>
+        <p>NOTAM, ATC, uçuş güvenliği ve askeri hava faaliyetleri</p>
+      </button>
+      <button class="cat" id="btn-officials" onclick="showCat('officials')">
+        <span class="badge" id="cnt-officials">0</span>
+        <i class="ti ti-speakerphone"></i>
+        <h3>Yetkili Açıklamaları</h3>
+        <p>Başbakan, dışişleri, savunma açıklamaları ve sosyal medya yansımaları</p>
+      </button>
+      <button class="cat" id="btn-parliament" onclick="showCat('parliament')">
+        <span class="badge" id="cnt-parliament">0</span>
+        <i class="ti ti-building-bank"></i>
+        <h3>6 Parlamento Tasarıları</h3>
+        <p>Federal, Flaman, Valon, Brüksel, Fransız Topluluğu, Alman Konuşan Topluluk</p>
+      </button>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head">
+        <div class="panel-title" id="panel-title">Kategori seçin</div>
+        <div class="panel-meta" id="panel-meta"></div>
+        <div class="sorts">
+          <button id="sort-date" class="on" onclick="setSort('date')">Tarihe göre</button>
+          <button id="sort-source" onclick="setSort('source')">Kaynağa göre</button>
+        </div>
+      </div>
+      <div class="body" id="body">Yukarıdan bir kategoriye tıklayın.</div>
+    </div>
+  </div>
+
+  <script>
+    const META = {
+      nuclear: "Nükleer Santraller",
+      airspace: "Hava Sahası",
+      officials: "Yetkili Açıklamaları",
+      parliament: "6 Parlamento Tasarıları"
+    };
+
+    let db = null;
+    let active = null;
+    let sortMode = "date";
+    const PAGE_START = 30;
+    const PAGE_STEP = 15;
+    const visibleByKey = {};
+
+    const esc = (s) => (s || "").replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
+
+    function fmtDate(iso) {
+      if (!iso) return "Tarih yok";
+      try {
+        return new Date(iso).toLocaleString("tr-TR", { day: "2-digit", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+      } catch {
+        return "Tarih yok";
+      }
+    }
+
+    function totalForDate(catData) {
+      if (Array.isArray(catData["Toplu (Tekrarsiz)"])) return catData["Toplu (Tekrarsiz)"].length;
+      return flattened(catData).length;
+    }
+
+    function countItems(catData) {
+      return totalForDate(catData || {});
+    }
+
+    function flattened(catData) {
+      const all = [];
+      for (const [feed, arr] of Object.entries(catData || {})) {
+        for (const i of arr || []) {
+          all.push({ ...i, _feed: feed });
+        }
+      }
+      const ts = (v) => {
+        const t = Date.parse(v || "");
+        return Number.isNaN(t) ? 0 : t;
+      };
+      all.sort((a, b) => ts(b.date) - ts(a.date));
+      return all;
+    }
+
+    function renderItems(items, showFeedName = true) {
+      let html = "";
+      for (const item of items) {
+        html += `
+          <div class="item">
+            <a href="${esc(item.link)}" target="_blank" rel="noopener noreferrer">${esc(item.title || "Başlıksız")}</a>
+            <div class="meta">
+              <span class="pill">${fmtDate(item.date)}</span>
+              ${item.source ? `<span class="pill">${esc(item.source)}</span>` : ""}
+              ${showFeedName && item._feed ? `<span class="pill">${esc(item._feed)}</span>` : ""}
+            </div>
+            ${item.summary ? `<div class="summary">${esc(item.summary)}</div>` : ""}
+          </div>`;
+      }
+      return html;
+    }
+
+    function setSort(mode) {
+      sortMode = mode;
+      document.getElementById("sort-date").classList.toggle("on", mode === "date");
+      document.getElementById("sort-source").classList.toggle("on", mode === "source");
+      if (active) showCat(active);
+    }
+
+    function showMore() {
+      if (!active) return;
+      const key = `${active}:${sortMode}`;
+      const current = visibleByKey[key] || PAGE_START;
+      visibleByKey[key] = current + PAGE_STEP;
+      showCat(active);
+    }
+
+    function showCat(cat) {
+      active = cat;
+      document.querySelectorAll(".cat").forEach((el) => el.classList.remove("active"));
+      document.getElementById(`btn-${cat}`).classList.add("active");
+
+      const catData = db.data[cat] || {};
+      const total = countItems(catData);
+      const mergedForMeta = (catData["Toplu (Tekrarsiz)"] || flattened(catData));
+      const newest = mergedForMeta.length ? fmtDate(mergedForMeta[0].date) : "Yok";
+
+      document.getElementById("panel-title").textContent = `${META[cat]} (${total})`;
+      document.getElementById("panel-meta").textContent = `En güncel kayıt: ${newest} · Bağlantılar yeni sekmede açılır`;
+
+      if (!total) {
+        document.getElementById("body").textContent = "Bu kategori için henüz veri yok.";
+        return;
+      }
+
+      if (sortMode === "date") {
+        const merged = (catData["Toplu (Tekrarsiz)"] || flattened(catData));
+        const key = `${cat}:${sortMode}`;
+        const visible = visibleByKey[key] || PAGE_START;
+        const shown = merged.slice(0, visible);
+        let html = renderItems(shown, true);
+        if (visible < merged.length) {
+          html += `<div class="load-wrap"><button class="load-btn" onclick="showMore()">Load more (+15)</button></div>`;
+        }
+        document.getElementById("body").innerHTML = html;
+        return;
+      }
+
+      let html = "";
+      const key = `${cat}:${sortMode}`;
+      const visible = visibleByKey[key] || PAGE_START;
+      let shownCount = 0;
+      let totalSourceItems = 0;
+      for (const [feed, arr] of Object.entries(catData)) {
+        if (feed === "Toplu (Tekrarsiz)") continue;
+        if (!arr.length) continue;
+        totalSourceItems += arr.length;
+        const remaining = visible - shownCount;
+        if (remaining <= 0) break;
+        const chunk = arr.slice(0, remaining);
+        if (!chunk.length) continue;
+        shownCount += chunk.length;
+        html += `<div class="src">${esc(feed)} (${chunk.length}/${arr.length})</div>`;
+        html += renderItems(chunk, false);
+      }
+      if (cat === "parliament") {
+        html += `<div class="warn">Parlamento özetleri otomatik üretilir; kritik kararlar için mutlaka orijinal bağlantıyı doğrulayın.</div>`;
+      }
+      if (shownCount < totalSourceItems) {
+        html += `<div class="load-wrap"><button class="load-btn" onclick="showMore()">Load more (+15)</button></div>`;
+      }
+      document.getElementById("body").innerHTML = html;
+    }
+
+    async function init() {
+      try {
+        const res = await fetch(`data.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error("data.json okunamadı");
+        db = await res.json();
+
+        const updated = db.updated ? new Date(db.updated).toLocaleString("tr-TR") : "Bilinmiyor";
+        document.getElementById("updated").textContent = `Son güncelleme: ${updated}`;
+
+        for (const cat of Object.keys(META)) {
+          document.getElementById(`cnt-${cat}`).textContent = countItems(db.data[cat] || {});
+        }
+
+        showCat("nuclear");
+      } catch (err) {
+        document.getElementById("body").innerHTML = "Veri alınamadı. GitHub Actions çalıştıktan sonra tekrar deneyin.";
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
