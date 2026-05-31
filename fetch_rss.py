@@ -190,6 +190,10 @@ def dedupe(items):
     return out
 
 
+def sort_by_date_desc(items):
+    return sorted(items, key=lambda x: x.get("date") or "", reverse=True)
+
+
 result = {}
 
 for category, feeds in FEEDS.items():
@@ -210,7 +214,10 @@ for category, feeds in FEEDS.items():
     merged = []
     for batch in result[category].values():
         merged.extend(batch)
-    result[category]["Toplu (Tekrarsiz)"] = dedupe(merged)[:40]
+    merged = sort_by_date_desc(merged)
+    merged = dedupe(merged)
+    merged = sort_by_date_desc(merged)
+    result[category]["Toplu (Tekrarsiz)"] = merged[:40]
 
 output = {
     "updated": datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z"),

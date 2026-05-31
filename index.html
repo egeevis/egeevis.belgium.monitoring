@@ -7,21 +7,21 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.19.0/dist/tabler-icons.min.css" />
   <style>
     :root {
-      --bg: #f4f6f8;
-      --card: #ffffff;
-      --ink: #17212b;
-      --muted: #607080;
-      --line: #d8dee5;
-      --brand: #0b6a88;
-      --brand-soft: #e5f4f8;
-      --good: #136f43;
-      --good-soft: #e4f6ec;
+      --bg: #0b1220;
+      --card: #111a2b;
+      --ink: #e8f0ff;
+      --muted: #9eb1c9;
+      --line: #22324a;
+      --brand: #4dc3ff;
+      --brand-soft: #11324a;
+      --good: #6de5a8;
+      --good-soft: #17352a;
       --r: 12px;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
-      background: radial-gradient(circle at top right, #e8f6fb 0, #f4f6f8 45%);
+      background: radial-gradient(circle at top right, #172742 0, #0b1220 45%);
       color: var(--ink);
       font-family: "Segoe UI", "Noto Sans", sans-serif;
       padding: 20px 14px 40px;
@@ -53,7 +53,7 @@
       transition: 120ms ease;
       position: relative;
     }
-    .cat:hover { border-color: #aebbc8; transform: translateY(-1px); }
+    .cat:hover { border-color: #315176; background: #15233a; transform: translateY(-1px); }
     .cat.active { border: 2px solid var(--brand); }
     .cat i { color: var(--brand); font-size: 20px; }
     .cat h3 { margin: 8px 0 2px; font-size: 14px; }
@@ -83,7 +83,7 @@
     .sorts { margin-left: auto; display: flex; gap: 6px; }
     .sorts button {
       border: 1px solid var(--line);
-      background: #f6f9fc;
+      background: #132237;
       color: var(--muted);
       padding: 4px 8px;
       border-radius: 8px;
@@ -94,26 +94,26 @@
     .body { padding: 14px; min-height: 160px; }
 
     .src { margin-top: 14px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
-    .item { border-top: 1px solid #edf1f4; padding: 10px 0; }
+    .item { border-top: 1px solid #1c2a40; padding: 10px 0; }
     .item:first-of-type { border-top: 0; }
     .item a { color: var(--ink); font-weight: 600; text-decoration: none; line-height: 1.35; }
     .item a:hover { color: var(--brand); text-decoration: underline; }
     .meta { margin-top: 5px; display: flex; flex-wrap: wrap; gap: 6px; }
-    .pill { font-size: 11px; color: var(--muted); background: #f2f5f8; border-radius: 6px; padding: 2px 7px; }
+    .pill { font-size: 11px; color: var(--muted); background: #16253b; border-radius: 6px; padding: 2px 7px; }
     .summary {
       margin-top: 6px;
       font-size: 12px;
       line-height: 1.45;
-      color: #2f3f4c;
-      background: #f7fafc;
-      border-left: 3px solid #c9dce8;
+      color: #bdd0e8;
+      background: #122136;
+      border-left: 3px solid #2f567f;
       padding: 6px 8px;
       border-radius: 0 8px 8px 0;
     }
     .warn {
       color: var(--good);
       background: var(--good-soft);
-      border: 1px solid #bde6ca;
+      border: 1px solid #2f6b51;
       border-radius: 8px;
       padding: 6px 8px;
       font-size: 12px;
@@ -208,7 +208,11 @@
           all.push({ ...i, _feed: feed });
         }
       }
-      all.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+      const ts = (v) => {
+        const t = Date.parse(v || "");
+        return Number.isNaN(t) ? 0 : t;
+      };
+      all.sort((a, b) => ts(b.date) - ts(a.date));
       return all;
     }
 
